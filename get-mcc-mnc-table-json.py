@@ -1,36 +1,91 @@
-# Get the Mobile Country Codes (MCC) and Mobile Network Codes (MNC) table
-# from mcc-mnc.com and output it in JSON format.
-
-import re
-import urllib.request
 import json
+import requests
+from typing import List
+from pathlib import Path
+from bs4 import BeautifulSoup
+from pydantic import BaseModel
 
-td_re = re.compile('<td>([^<]*)</td>'*6)
+_MCC_MNC_JSON_FILE: Path = Path(__file__).parent.joinpath("mcc-mnc-table.json")
 
-with urllib.request.urlopen('http://mcc-mnc.com/') as f:
-    html = f.read().decode('utf-8')
 
-    tbody_start = False
+# SCHEMAS
+class MCCMNCRecord(BaseModel):
+    """mcc mnc record/row from mcc-mnc.com"""
+    mcc: int
+    mnc: int
+    iso: str
+    country: str
+    country_code: int
+    network: str
 
-    mcc_mnc_list = []
 
-    for line in html.split('\n'):
-        if '<tbody>' in line:
-            tbody_start = True
-        elif '</tbody>' in line:
-            break
-        elif tbody_start:
-            td_search = td_re.search(line)
-            current_item = {}
-            td_search = td_re.split(line)
+class MCCMNCRecordList(BaseModel):
+    __root__: List[MCCMNCRecord]
 
-            current_item['mcc'] = td_search[1]
-            current_item['mnc'] = td_search[2]
-            current_item['iso'] = td_search[3]
-            current_item['country'] = td_search[4]
-            current_item['country_code'] = td_search[5]
-            current_item['network'] = td_search[6][0:-1]
 
-            mcc_mnc_list.append(current_item)
+# FETCHER
+class MCCMNCFetcher:
+    """fetching & parsing mcc mnc records from https://mcc-mnc.com"""
+    _DOMAIN: str = "https://mcc-mnc.com/"
 
-    print(json.dumps(mcc_mnc_list, indent=2))
+    @staticmethod
+    def _get_mcc_mnc_site_html() -> str:
+        """:return: HTML from https://mcc-mnc.com/"""
+        return requests.get(MCCMNCFetcher._DOMAIN).text
+
+    @staticmethod
+    def _get_mcc_mnc_rows(html: str) -> List[List[str]]:
+        """
+        returns all the mcc mnc rows from https://mcc-mnc.com/
+        each row is in the pattern [mcc, mnc, iso, country, country code, network]
+        :param html: HTML from https://mcc-mnc.com/
+        :return: list of mcc mnc rows
+        """
+        records = []
+        soup = BeautifulSoup(html)
+        table = soup.find('table', attrs={'id': 'mncmccTable'})
+        table_body = table.find('tbody')
+        rows = table_body.find_all('tr')
+        for row in rows:
+            cols = row.find_all('td')
+            cols = [e.text.strip() for e in cols]
+            records.append([e for e in cols if e])
+        return records
+
+    @staticmethod
+    def _parse_records(mcc_mnc_rows: List[List[str]]) -> List[MCCMNCRecord]:
+        """
+        parsing mcc mnc rows to list of MCCMNCRecord
+        :param mcc_mnc_rows: list of mcc mnc rows. row is in the pattern [mcc, mnc, iso, country, country code, network]
+        :return: list of MCCMNCRecord
+        """
+        mcc_mnc_records: List[MCCMNCRecord] = []
+        for mcc_mnc_row in mcc_mnc_rows:
+            try:
+                mcc_mnc_records.append(
+                    MCCMNCRecord(mcc=mcc_mnc_row[0],
+                                 mnc=mcc_mnc_row[1],
+                                 iso=mcc_mnc_row[2],
+                                 country=mcc_mnc_row[3],
+                                 country_code=mcc_mnc_row[4],
+                                 network=mcc_mnc_row[5])
+                )
+            except IndexError:
+                pass  # some rows are not fully populated
+        return mcc_mnc_records
+
+    @staticmethod
+    def json_file():
+        """
+        creating a json file(mcc-mnc-table.json) with all the mcc mnc data from https://mcc-mnc.com/
+        :return: None
+        """
+        mcc_mnc_html: str = MCCMNCFetcher._get_mcc_mnc_site_html()
+        mcc_mnc_rows: List[List[str]] = MCCMNCFetcher._get_mcc_mnc_rows(html=mcc_mnc_html)
+        mcc_mnc_records: List[MCCMNCRecord] = MCCMNCFetcher._parse_records(mcc_mnc_rows=mcc_mnc_rows)
+        mcc_mnc_records_list: MCCMNCRecordList = MCCMNCRecordList.parse_obj(mcc_mnc_records)
+        with open(_MCC_MNC_JSON_FILE, "w") as f:
+            f.write(json.dumps(mcc_mnc_records_list.dict()["__root__"], indent=2))
+
+
+MCCMNCFetcher.json_file()
