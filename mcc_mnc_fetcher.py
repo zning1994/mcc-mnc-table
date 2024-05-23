@@ -14,9 +14,9 @@ from typing import List
 from pathlib import Path
 from xml.dom import minidom
 from bs4 import BeautifulSoup
-from pydantic import BaseModel
+from pydantic import BaseModel, RootModel
 
-_MCC_MNC_FILE: Path = Path(__file__).parent.joinpath("mcc-mnc-table")
+_MCC_MNC_FILE = Path(__file__).parent.joinpath("docs/mcc-mnc-table")
 
 
 # SCHEMAS
@@ -30,8 +30,8 @@ class MCCMNCRecord(BaseModel):
     network: str
 
 
-class MCCMNCRecordList(BaseModel):
-    __root__: List[MCCMNCRecord]
+class MCCMNCRecordList(RootModel[List[MCCMNCRecord]]):
+    pass
 
 
 # FETCHER
@@ -53,7 +53,7 @@ class MCCMNCFetcher:
         :return: list of mcc mnc rows
         """
         records = []
-        soup = BeautifulSoup(html)
+        soup = BeautifulSoup(html, "html.parser")
         table = soup.find('table', attrs={'id': 'mncmccTable'})
         table_body = table.find('tbody')
         rows = table_body.find_all('tr')
@@ -96,7 +96,8 @@ class MCCMNCFetcher:
         mcc_mnc_records: List[MCCMNCRecord] = MCCMNCFetcher._parse_records(mcc_mnc_rows=mcc_mnc_rows)
         mcc_mnc_records_list: MCCMNCRecordList = MCCMNCRecordList.parse_obj(mcc_mnc_records)
         with open(f"{_MCC_MNC_FILE}.json", "w") as f:
-            f.write(json.dumps(mcc_mnc_records_list.dict()["__root__"], indent=2))
+            mcc_mnc_records_dict = [record.dict() for record in mcc_mnc_records_list.root]
+            f.write(json.dumps(mcc_mnc_records_dict, indent=2))
 
     @staticmethod
     def csv_file() -> None:
