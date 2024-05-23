@@ -1,0 +1,50 @@
+name: 'Fetch MCC MNC from mcc-mnc.com Actions'
+
+on:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: '*/15 * * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout from repo
+      uses: actions/checkout@main
+      with:
+        ref: main
+
+    - name: Install Python latest
+      uses: actions/setup-python@main
+      with:
+        python-version: '3.x'
+        architecture: 'x64'
+
+    - name: Install dependencies
+      run: |
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Fetch, convert, and commit files
+      run: |
+        python mcc_mnc_fetcher.py
+        if [ $? -eq 0 ]; then
+          git config --local user.email "zhn038@gmail.com"
+          git config --local user.name "ZNing"
+          git add .
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update information $(date "+%Y-%m-%d %H:%M:%S")"
+          fi
+        else
+          echo "Python script failed, not committing changes."
+        fi
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
