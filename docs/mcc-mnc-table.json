@@ -2513,14 +2513,6 @@
   },
   {
     "mcc": 302,
-    "mnc": 61,
-    "iso": "ca",
-    "country": "Canada",
-    "country_code": 1,
-    "network": "Bell Mobility"
-  },
-  {
-    "mcc": 302,
     "mnc": 610,
     "iso": "ca",
     "country": "Canada",
@@ -2530,6 +2522,14 @@
   {
     "mcc": 302,
     "mnc": 63,
+    "iso": "ca",
+    "country": "Canada",
+    "country_code": 1,
+    "network": "Bell Mobility"
+  },
+  {
+    "mcc": 302,
+    "mnc": 61,
     "iso": "ca",
     "country": "Canada",
     "country_code": 1,
@@ -17785,7 +17785,7 @@
   },
   {
     "mcc": 525,
-    "mnc": 8,
+    "mnc": 5,
     "iso": "sg",
     "country": "Singapore",
     "country_code": 65,
@@ -17793,7 +17793,7 @@
   },
   {
     "mcc": 525,
-    "mnc": 5,
+    "mnc": 8,
     "iso": "sg",
     "country": "Singapore",
     "country_code": 65,
@@ -21688,14 +21688,6 @@
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 310,
-    "mnc": 16,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "AT&T Mobility"
-  },
-  {
     "mcc": 311,
     "mnc": 80,
     "iso": "us",
@@ -21746,6 +21738,14 @@
   {
     "mcc": 311,
     "mnc": 210,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "AT&T Mobility"
+  },
+  {
+    "mcc": 310,
+    "mnc": 16,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,

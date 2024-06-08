@@ -2514,14 +2514,6 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>61</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Bell Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
 		<mnc>610</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
@@ -2531,6 +2523,14 @@
 	<record>
 		<mcc>302</mcc>
 		<mnc>63</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Bell Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>61</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
@@ -17835,7 +17835,7 @@
 	</record>
 	<record>
 		<mcc>525</mcc>
-		<mnc>08</mnc>
+		<mnc>05</mnc>
 		<iso>sg</iso>
 		<country>Singapore</country>
 		<country_code>65</country_code>
@@ -17843,7 +17843,7 @@
 	</record>
 	<record>
 		<mcc>525</mcc>
-		<mnc>05</mnc>
+		<mnc>08</mnc>
 		<iso>sg</iso>
 		<country>Singapore</country>
 		<country_code>65</country_code>
@@ -21850,14 +21850,6 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>016</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
 		<mcc>311</mcc>
 		<mnc>080</mnc>
 		<iso>us</iso>
@@ -21908,6 +21900,14 @@
 	<record>
 		<mcc>311</mcc>
 		<mnc>210</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>016</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>

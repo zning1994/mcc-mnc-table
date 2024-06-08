@@ -312,9 +312,9 @@
 302,69,ca,Canada,1,Bell Mobility
 302,640,ca,Canada,1,Bell Mobility
 302,66,ca,Canada,1,Bell Mobility
-302,61,ca,Canada,1,Bell Mobility
 302,610,ca,Canada,1,Bell Mobility
 302,63,ca,Canada,1,Bell Mobility
+302,61,ca,Canada,1,Bell Mobility
 302,690,ca,Canada,1,Bell Mobility
 302,630,ca,Canada,1,Bell Mobility
 302,660,ca,Canada,1,Bell Mobility
@@ -2228,8 +2228,8 @@
 525,01,sg,Singapore,65,SingTel
 525,07,sg,Singapore,65,SingTel
 525,299,sg,Singapore,65,Smart Pinoy
-525,08,sg,Singapore,65,Starhub
 525,05,sg,Singapore,65,Starhub
+525,08,sg,Singapore,65,Starhub
 525,06,sg,Singapore,65,Starhub
 525,10,sg,Singapore,65,TPG Telecom
 525,299,sg,Singapore,65,VivoBee
@@ -2732,7 +2732,6 @@
 310,180,us,United States of America,1,AT&T Mobility
 312,170,us,United States of America,1,AT&T Mobility
 311,670,us,United States of America,1,AT&T Mobility
-310,016,us,United States of America,1,AT&T Mobility
 311,080,us,United States of America,1,AT&T Mobility
 313,150,us,United States of America,1,AT&T Mobility
 312,410,us,United States of America,1,AT&T Mobility
@@ -2740,6 +2739,7 @@
 310,080,us,United States of America,1,AT&T Mobility
 312,070,us,United States of America,1,AT&T Mobility
 311,210,us,United States of America,1,AT&T Mobility
+310,016,us,United States of America,1,AT&T Mobility
 310,030,us,United States of America,1,AT&T Mobility
 313,410,us,United States of America,1,AT&T Mobility
 313,030,us,United States of America,1,AT&T Mobility
