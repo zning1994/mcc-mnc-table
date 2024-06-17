@@ -2,7 +2,7 @@
 <records>
 	<record>
 		<mcc>289</mcc>
-		<mnc>68</mnc>
+		<mnc>88</mnc>
 		<iso>ge</iso>
 		<country>Abkhazia</country>
 		<country_code>7</country_code>
@@ -10,7 +10,7 @@
 	</record>
 	<record>
 		<mcc>289</mcc>
-		<mnc>88</mnc>
+		<mnc>68</mnc>
 		<iso>ge</iso>
 		<country>Abkhazia</country>
 		<country_code>7</country_code>
@@ -338,7 +338,7 @@
 	</record>
 	<record>
 		<mcc>344</mcc>
-		<mnc>92</mnc>
+		<mnc>920</mnc>
 		<iso>ag</iso>
 		<country>Antigua and Barbuda</country>
 		<country_code>1268</country_code>
@@ -346,7 +346,7 @@
 	</record>
 	<record>
 		<mcc>344</mcc>
-		<mnc>920</mnc>
+		<mnc>92</mnc>
 		<iso>ag</iso>
 		<country>Antigua and Barbuda</country>
 		<country_code>1268</country_code>
@@ -370,14 +370,6 @@
 	</record>
 	<record>
 		<mcc>722</mcc>
-		<mnc>031</mnc>
-		<iso>ar</iso>
-		<country>Argentina</country>
-		<country_code>54</country_code>
-		<network>Claro</network>
-	</record>
-	<record>
-		<mcc>722</mcc>
 		<mnc>330</mnc>
 		<iso>ar</iso>
 		<country>Argentina</country>
@@ -387,6 +379,14 @@
 	<record>
 		<mcc>722</mcc>
 		<mnc>320</mnc>
+		<iso>ar</iso>
+		<country>Argentina</country>
+		<country_code>54</country_code>
+		<network>Claro</network>
+	</record>
+	<record>
+		<mcc>722</mcc>
+		<mnc>031</mnc>
 		<iso>ar</iso>
 		<country>Argentina</country>
 		<country_code>54</country_code>
@@ -450,7 +450,7 @@
 	</record>
 	<record>
 		<mcc>722</mcc>
-		<mnc>007</mnc>
+		<mnc>010</mnc>
 		<iso>ar</iso>
 		<country>Argentina</country>
 		<country_code>54</country_code>
@@ -458,7 +458,7 @@
 	</record>
 	<record>
 		<mcc>722</mcc>
-		<mnc>010</mnc>
+		<mnc>007</mnc>
 		<iso>ar</iso>
 		<country>Argentina</country>
 		<country_code>54</country_code>
@@ -722,31 +722,7 @@
 	</record>
 	<record>
 		<mcc>505</mcc>
-		<mnc>39</mnc>
-		<iso>au</iso>
-		<country>Australia</country>
-		<country_code>61</country_code>
-		<network>Telstra</network>
-	</record>
-	<record>
-		<mcc>505</mcc>
-		<mnc>01</mnc>
-		<iso>au</iso>
-		<country>Australia</country>
-		<country_code>61</country_code>
-		<network>Telstra</network>
-	</record>
-	<record>
-		<mcc>505</mcc>
 		<mnc>71</mnc>
-		<iso>au</iso>
-		<country>Australia</country>
-		<country_code>61</country_code>
-		<network>Telstra</network>
-	</record>
-	<record>
-		<mcc>505</mcc>
-		<mnc>11</mnc>
 		<iso>au</iso>
 		<country>Australia</country>
 		<country_code>61</country_code>
@@ -762,6 +738,30 @@
 	</record>
 	<record>
 		<mcc>505</mcc>
+		<mnc>01</mnc>
+		<iso>au</iso>
+		<country>Australia</country>
+		<country_code>61</country_code>
+		<network>Telstra</network>
+	</record>
+	<record>
+		<mcc>505</mcc>
+		<mnc>11</mnc>
+		<iso>au</iso>
+		<country>Australia</country>
+		<country_code>61</country_code>
+		<network>Telstra</network>
+	</record>
+	<record>
+		<mcc>505</mcc>
+		<mnc>39</mnc>
+		<iso>au</iso>
+		<country>Australia</country>
+		<country_code>61</country_code>
+		<network>Telstra</network>
+	</record>
+	<record>
+		<mcc>505</mcc>
 		<mnc>16</mnc>
 		<iso>au</iso>
 		<country>Australia</country>
@@ -770,7 +770,7 @@
 	</record>
 	<record>
 		<mcc>505</mcc>
-		<mnc>06</mnc>
+		<mnc>03</mnc>
 		<iso>au</iso>
 		<country>Australia</country>
 		<country_code>61</country_code>
@@ -786,7 +786,7 @@
 	</record>
 	<record>
 		<mcc>505</mcc>
-		<mnc>07</mnc>
+		<mnc>06</mnc>
 		<iso>au</iso>
 		<country>Australia</country>
 		<country_code>61</country_code>
@@ -794,11 +794,19 @@
 	</record>
 	<record>
 		<mcc>505</mcc>
-		<mnc>03</mnc>
+		<mnc>07</mnc>
 		<iso>au</iso>
 		<country>Australia</country>
 		<country_code>61</country_code>
 		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>232</mcc>
+		<mnc>14</mnc>
+		<iso>at</iso>
+		<country>Austria</country>
+		<country_code>43</country_code>
+		<network>3</network>
 	</record>
 	<record>
 		<mcc>232</mcc>
@@ -826,27 +834,11 @@
 	</record>
 	<record>
 		<mcc>232</mcc>
-		<mnc>14</mnc>
-		<iso>at</iso>
-		<country>Austria</country>
-		<country_code>43</country_code>
-		<network>3</network>
-	</record>
-	<record>
-		<mcc>232</mcc>
 		<mnc>05</mnc>
 		<iso>at</iso>
 		<country>Austria</country>
 		<country_code>43</country_code>
 		<network>3</network>
-	</record>
-	<record>
-		<mcc>232</mcc>
-		<mnc>01</mnc>
-		<iso>at</iso>
-		<country>Austria</country>
-		<country_code>43</country_code>
-		<network>A1 Telekom</network>
 	</record>
 	<record>
 		<mcc>232</mcc>
@@ -875,6 +867,14 @@
 	<record>
 		<mcc>232</mcc>
 		<mnc>02</mnc>
+		<iso>at</iso>
+		<country>Austria</country>
+		<country_code>43</country_code>
+		<network>A1 Telekom</network>
+	</record>
+	<record>
+		<mcc>232</mcc>
+		<mnc>01</mnc>
 		<iso>at</iso>
 		<country>Austria</country>
 		<country_code>43</country_code>
@@ -1058,7 +1058,7 @@
 	</record>
 	<record>
 		<mcc>232</mcc>
-		<mnc>13</mnc>
+		<mnc>03</mnc>
 		<iso>at</iso>
 		<country>Austria</country>
 		<country_code>43</country_code>
@@ -1066,7 +1066,7 @@
 	</record>
 	<record>
 		<mcc>232</mcc>
-		<mnc>23</mnc>
+		<mnc>13</mnc>
 		<iso>at</iso>
 		<country>Austria</country>
 		<country_code>43</country_code>
@@ -1082,7 +1082,7 @@
 	</record>
 	<record>
 		<mcc>232</mcc>
-		<mnc>03</mnc>
+		<mnc>23</mnc>
 		<iso>at</iso>
 		<country>Austria</country>
 		<country_code>43</country_code>
@@ -1186,7 +1186,7 @@
 	</record>
 	<record>
 		<mcc>364</mcc>
-		<mnc>30</mnc>
+		<mnc>39</mnc>
 		<iso>bs</iso>
 		<country>Bahamas</country>
 		<country_code>1242</country_code>
@@ -1194,7 +1194,7 @@
 	</record>
 	<record>
 		<mcc>364</mcc>
-		<mnc>39</mnc>
+		<mnc>30</mnc>
 		<iso>bs</iso>
 		<country>Bahamas</country>
 		<country_code>1242</country_code>
@@ -1562,14 +1562,6 @@
 	</record>
 	<record>
 		<mcc>206</mcc>
-		<mnc>04</mnc>
-		<iso>be</iso>
-		<country>Belgium</country>
-		<country_code>32</country_code>
-		<network>Proximus</network>
-	</record>
-	<record>
-		<mcc>206</mcc>
 		<mnc>00</mnc>
 		<iso>be</iso>
 		<country>Belgium</country>
@@ -1579,6 +1571,14 @@
 	<record>
 		<mcc>206</mcc>
 		<mnc>01</mnc>
+		<iso>be</iso>
+		<country>Belgium</country>
+		<country_code>32</country_code>
+		<network>Proximus</network>
+	</record>
+	<record>
+		<mcc>206</mcc>
+		<mnc>04</mnc>
 		<iso>be</iso>
 		<country>Belgium</country>
 		<country_code>32</country_code>
@@ -1642,7 +1642,7 @@
 	</record>
 	<record>
 		<mcc>702</mcc>
-		<mnc>69</mnc>
+		<mnc>099</mnc>
 		<iso>bz</iso>
 		<country>Belize</country>
 		<country_code>501</country_code>
@@ -1650,7 +1650,7 @@
 	</record>
 	<record>
 		<mcc>702</mcc>
-		<mnc>099</mnc>
+		<mnc>69</mnc>
 		<iso>bz</iso>
 		<country>Belize</country>
 		<country_code>501</country_code>
@@ -1978,7 +1978,7 @@
 	</record>
 	<record>
 		<mcc>724</mcc>
-		<mnc>39</mnc>
+		<mnc>00</mnc>
 		<iso>br</iso>
 		<country>Brazil</country>
 		<country_code>55</country_code>
@@ -1986,7 +1986,7 @@
 	</record>
 	<record>
 		<mcc>724</mcc>
-		<mnc>00</mnc>
+		<mnc>39</mnc>
 		<iso>br</iso>
 		<country>Brazil</country>
 		<country_code>55</country_code>
@@ -2042,14 +2042,6 @@
 	</record>
 	<record>
 		<mcc>724</mcc>
-		<mnc>04</mnc>
-		<iso>br</iso>
-		<country>Brazil</country>
-		<country_code>55</country_code>
-		<network>TIM</network>
-	</record>
-	<record>
-		<mcc>724</mcc>
 		<mnc>54</mnc>
 		<iso>br</iso>
 		<country>Brazil</country>
@@ -2074,27 +2066,19 @@
 	</record>
 	<record>
 		<mcc>724</mcc>
+		<mnc>04</mnc>
+		<iso>br</iso>
+		<country>Brazil</country>
+		<country_code>55</country_code>
+		<network>TIM</network>
+	</record>
+	<record>
+		<mcc>724</mcc>
 		<mnc>299</mnc>
 		<iso>br</iso>
 		<country>Brazil</country>
 		<country_code>55</country_code>
 		<network>Vecto Mobile</network>
-	</record>
-	<record>
-		<mcc>724</mcc>
-		<mnc>06</mnc>
-		<iso>br</iso>
-		<country>Brazil</country>
-		<country_code>55</country_code>
-		<network>Vivo</network>
-	</record>
-	<record>
-		<mcc>724</mcc>
-		<mnc>10</mnc>
-		<iso>br</iso>
-		<country>Brazil</country>
-		<country_code>55</country_code>
-		<network>Vivo</network>
 	</record>
 	<record>
 		<mcc>724</mcc>
@@ -2107,6 +2091,22 @@
 	<record>
 		<mcc>724</mcc>
 		<mnc>23</mnc>
+		<iso>br</iso>
+		<country>Brazil</country>
+		<country_code>55</country_code>
+		<network>Vivo</network>
+	</record>
+	<record>
+		<mcc>724</mcc>
+		<mnc>06</mnc>
+		<iso>br</iso>
+		<country>Brazil</country>
+		<country_code>55</country_code>
+		<network>Vivo</network>
+	</record>
+	<record>
+		<mcc>724</mcc>
+		<mnc>10</mnc>
 		<iso>br</iso>
 		<country>Brazil</country>
 		<country_code>55</country_code>
@@ -2162,7 +2162,7 @@
 	</record>
 	<record>
 		<mcc>528</mcc>
-		<mnc>11</mnc>
+		<mnc>03</mnc>
 		<iso>bn</iso>
 		<country>Brunei</country>
 		<country_code>673</country_code>
@@ -2170,7 +2170,7 @@
 	</record>
 	<record>
 		<mcc>528</mcc>
-		<mnc>03</mnc>
+		<mnc>11</mnc>
 		<iso>bn</iso>
 		<country>Brunei</country>
 		<country_code>673</country_code>
@@ -2314,7 +2314,7 @@
 	</record>
 	<record>
 		<mcc>642</mcc>
-		<mnc>82</mnc>
+		<mnc>01</mnc>
 		<iso>bi</iso>
 		<country>Burundi</country>
 		<country_code>257</country_code>
@@ -2322,7 +2322,7 @@
 	</record>
 	<record>
 		<mcc>642</mcc>
-		<mnc>01</mnc>
+		<mnc>82</mnc>
 		<iso>bi</iso>
 		<country>Burundi</country>
 		<country_code>257</country_code>
@@ -2362,7 +2362,7 @@
 	</record>
 	<record>
 		<mcc>456</mcc>
-		<mnc>18</mnc>
+		<mnc>01</mnc>
 		<iso>kh</iso>
 		<country>Cambodia</country>
 		<country_code>855</country_code>
@@ -2370,7 +2370,7 @@
 	</record>
 	<record>
 		<mcc>456</mcc>
-		<mnc>01</mnc>
+		<mnc>18</mnc>
 		<iso>kh</iso>
 		<country>Cambodia</country>
 		<country_code>855</country_code>
@@ -2426,14 +2426,6 @@
 	</record>
 	<record>
 		<mcc>456</mcc>
-		<mnc>02</mnc>
-		<iso>kh</iso>
-		<country>Cambodia</country>
-		<country_code>855</country_code>
-		<network>Smart</network>
-	</record>
-	<record>
-		<mcc>456</mcc>
 		<mnc>06</mnc>
 		<iso>kh</iso>
 		<country>Cambodia</country>
@@ -2443,6 +2435,14 @@
 	<record>
 		<mcc>456</mcc>
 		<mnc>05</mnc>
+		<iso>kh</iso>
+		<country>Cambodia</country>
+		<country_code>855</country_code>
+		<network>Smart</network>
+	</record>
+	<record>
+		<mcc>456</mcc>
+		<mnc>02</mnc>
 		<iso>kh</iso>
 		<country>Cambodia</country>
 		<country_code>855</country_code>
@@ -2490,47 +2490,15 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>69</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Bell Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>640</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Bell Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>690</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Bell Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>66</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Bell Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>63</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Bell Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
 		<mnc>630</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Bell Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>610</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
@@ -2554,7 +2522,39 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>610</mnc>
+		<mnc>69</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Bell Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>640</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Bell Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>66</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Bell Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>63</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Bell Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>690</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
@@ -2634,14 +2634,6 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>620</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Ice Wireless</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
 		<mnc>62</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
@@ -2650,19 +2642,11 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>38</mnc>
+		<mnc>620</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
-		<network>K-Net Mobile</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>53</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>K-Net Mobile</network>
+		<network>Ice Wireless</network>
 	</record>
 	<record>
 		<mcc>302</mcc>
@@ -2682,19 +2666,19 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>820</mnc>
+		<mnc>53</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
-		<network>Rogers</network>
+		<network>K-Net Mobile</network>
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>72</mnc>
+		<mnc>38</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
-		<network>Rogers</network>
+		<network>K-Net Mobile</network>
 	</record>
 	<record>
 		<mcc>302</mcc>
@@ -2738,43 +2722,19 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>681</mnc>
+		<mnc>820</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
-		<network>SaskTel Mobility</network>
+		<network>Rogers</network>
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>780</mnc>
+		<mnc>72</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
-		<network>SaskTel Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>680</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>SaskTel Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>781</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>SaskTel Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>750</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>SaskTel Mobility</network>
+		<network>Rogers</network>
 	</record>
 	<record>
 		<mcc>302</mcc>
@@ -2802,7 +2762,47 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>22</mnc>
+		<mnc>681</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>SaskTel Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>780</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>SaskTel Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>781</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>SaskTel Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>750</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>SaskTel Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>680</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>SaskTel Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>220</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
@@ -2818,23 +2818,7 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>360</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Telus Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>860</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Telus Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>221</mnc>
+		<mnc>22</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
@@ -2843,22 +2827,6 @@
 	<record>
 		<mcc>302</mcc>
 		<mnc>86</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Telus Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>36</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Telus Mobility</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>220</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
@@ -2882,6 +2850,54 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
+		<mnc>860</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Telus Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>360</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Telus Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>221</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Telus Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>36</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Telus Mobility</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>510</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Videotron</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
+		<mnc>50</mnc>
+		<iso>ca</iso>
+		<country>Canada</country>
+		<country_code>1</country_code>
+		<network>Videotron</network>
+	</record>
+	<record>
+		<mcc>302</mcc>
 		<mnc>500</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
@@ -2899,22 +2915,6 @@
 	<record>
 		<mcc>302</mcc>
 		<mnc>51</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Videotron</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>510</mnc>
-		<iso>ca</iso>
-		<country>Canada</country>
-		<country_code>1</country_code>
-		<network>Videotron</network>
-	</record>
-	<record>
-		<mcc>302</mcc>
-		<mnc>50</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
@@ -3146,7 +3146,7 @@
 	</record>
 	<record>
 		<mcc>730</mcc>
-		<mnc>03</mnc>
+		<mnc>23</mnc>
 		<iso>cl</iso>
 		<country>Chile</country>
 		<country_code>56</country_code>
@@ -3154,7 +3154,7 @@
 	</record>
 	<record>
 		<mcc>730</mcc>
-		<mnc>23</mnc>
+		<mnc>03</mnc>
 		<iso>cl</iso>
 		<country>Chile</country>
 		<country_code>56</country_code>
@@ -3410,6 +3410,14 @@
 	</record>
 	<record>
 		<mcc>730</mcc>
+		<mnc>04</mnc>
+		<iso>cl</iso>
+		<country>Chile</country>
+		<country_code>56</country_code>
+		<network>WOM</network>
+	</record>
+	<record>
+		<mcc>730</mcc>
 		<mnc>09</mnc>
 		<iso>cl</iso>
 		<country>Chile</country>
@@ -3423,30 +3431,6 @@
 		<country>Chile</country>
 		<country_code>56</country_code>
 		<network>WOM</network>
-	</record>
-	<record>
-		<mcc>730</mcc>
-		<mnc>04</mnc>
-		<iso>cl</iso>
-		<country>Chile</country>
-		<country_code>56</country_code>
-		<network>WOM</network>
-	</record>
-	<record>
-		<mcc>460</mcc>
-		<mnc>08</mnc>
-		<iso>cn</iso>
-		<country>China</country>
-		<country_code>86</country_code>
-		<network>China Mobile</network>
-	</record>
-	<record>
-		<mcc>460</mcc>
-		<mnc>00</mnc>
-		<iso>cn</iso>
-		<country>China</country>
-		<country_code>86</country_code>
-		<network>China Mobile</network>
 	</record>
 	<record>
 		<mcc>460</mcc>
@@ -3466,6 +3450,14 @@
 	</record>
 	<record>
 		<mcc>460</mcc>
+		<mnc>00</mnc>
+		<iso>cn</iso>
+		<country>China</country>
+		<country_code>86</country_code>
+		<network>China Mobile</network>
+	</record>
+	<record>
+		<mcc>460</mcc>
 		<mnc>07</mnc>
 		<iso>cn</iso>
 		<country>China</country>
@@ -3474,11 +3466,11 @@
 	</record>
 	<record>
 		<mcc>460</mcc>
-		<mnc>11</mnc>
+		<mnc>08</mnc>
 		<iso>cn</iso>
 		<country>China</country>
 		<country_code>86</country_code>
-		<network>China Telecom</network>
+		<network>China Mobile</network>
 	</record>
 	<record>
 		<mcc>460</mcc>
@@ -3498,11 +3490,11 @@
 	</record>
 	<record>
 		<mcc>460</mcc>
-		<mnc>09</mnc>
+		<mnc>11</mnc>
 		<iso>cn</iso>
 		<country>China</country>
 		<country_code>86</country_code>
-		<network>China Unicom</network>
+		<network>China Telecom</network>
 	</record>
 	<record>
 		<mcc>460</mcc>
@@ -3523,6 +3515,14 @@
 	<record>
 		<mcc>460</mcc>
 		<mnc>01</mnc>
+		<iso>cn</iso>
+		<country>China</country>
+		<country_code>86</country_code>
+		<network>China Unicom</network>
+	</record>
+	<record>
+		<mcc>460</mcc>
+		<mnc>09</mnc>
 		<iso>cn</iso>
 		<country>China</country>
 		<country_code>86</country_code>
@@ -3562,7 +3562,7 @@
 	</record>
 	<record>
 		<mcc>732</mcc>
-		<mnc>101</mnc>
+		<mnc>666</mnc>
 		<iso>co</iso>
 		<country>Colombia</country>
 		<country_code>57</country_code>
@@ -3570,7 +3570,7 @@
 	</record>
 	<record>
 		<mcc>732</mcc>
-		<mnc>666</mnc>
+		<mnc>101</mnc>
 		<iso>co</iso>
 		<country>Colombia</country>
 		<country_code>57</country_code>
@@ -3650,7 +3650,7 @@
 	</record>
 	<record>
 		<mcc>732</mcc>
-		<mnc>001</mnc>
+		<mnc>123</mnc>
 		<iso>co</iso>
 		<country>Colombia</country>
 		<country_code>57</country_code>
@@ -3658,7 +3658,7 @@
 	</record>
 	<record>
 		<mcc>732</mcc>
-		<mnc>123</mnc>
+		<mnc>001</mnc>
 		<iso>co</iso>
 		<country>Colombia</country>
 		<country_code>57</country_code>
@@ -3722,7 +3722,7 @@
 	</record>
 	<record>
 		<mcc>732</mcc>
-		<mnc>142</mnc>
+		<mnc>020</mnc>
 		<iso>co</iso>
 		<country>Colombia</country>
 		<country_code>57</country_code>
@@ -3730,7 +3730,7 @@
 	</record>
 	<record>
 		<mcc>732</mcc>
-		<mnc>020</mnc>
+		<mnc>142</mnc>
 		<iso>co</iso>
 		<country>Colombia</country>
 		<country_code>57</country_code>
@@ -3882,7 +3882,7 @@
 	</record>
 	<record>
 		<mcc>712</mcc>
-		<mnc>02</mnc>
+		<mnc>01</mnc>
 		<iso>cr</iso>
 		<country>Costa Rica</country>
 		<country_code>506</country_code>
@@ -3890,7 +3890,7 @@
 	</record>
 	<record>
 		<mcc>712</mcc>
-		<mnc>01</mnc>
+		<mnc>02</mnc>
 		<iso>cr</iso>
 		<country>Costa Rica</country>
 		<country_code>506</country_code>
@@ -4250,7 +4250,7 @@
 	</record>
 	<record>
 		<mcc>230</mcc>
-		<mnc>07</mnc>
+		<mnc>01</mnc>
 		<iso>cz</iso>
 		<country>Czech Republic</country>
 		<country_code>420</country_code>
@@ -4258,7 +4258,7 @@
 	</record>
 	<record>
 		<mcc>230</mcc>
-		<mnc>01</mnc>
+		<mnc>07</mnc>
 		<iso>cz</iso>
 		<country>Czech Republic</country>
 		<country_code>420</country_code>
@@ -4690,7 +4690,7 @@
 	</record>
 	<record>
 		<mcc>238</mcc>
-		<mnc>10</mnc>
+		<mnc>01</mnc>
 		<iso>dk</iso>
 		<country>Denmark</country>
 		<country_code>45</country_code>
@@ -4698,7 +4698,7 @@
 	</record>
 	<record>
 		<mcc>238</mcc>
-		<mnc>01</mnc>
+		<mnc>10</mnc>
 		<iso>dk</iso>
 		<country>Denmark</country>
 		<country_code>45</country_code>
@@ -4730,7 +4730,7 @@
 	</record>
 	<record>
 		<mcc>238</mcc>
-		<mnc>96</mnc>
+		<mnc>20</mnc>
 		<iso>dk</iso>
 		<country>Denmark</country>
 		<country_code>45</country_code>
@@ -4738,7 +4738,7 @@
 	</record>
 	<record>
 		<mcc>238</mcc>
-		<mnc>20</mnc>
+		<mnc>96</mnc>
 		<iso>dk</iso>
 		<country>Denmark</country>
 		<country_code>45</country_code>
@@ -5194,7 +5194,7 @@
 	</record>
 	<record>
 		<mcc>248</mcc>
-		<mnc>13</mnc>
+		<mnc>01</mnc>
 		<iso>ee</iso>
 		<country>Estonia</country>
 		<country_code>372</country_code>
@@ -5202,7 +5202,7 @@
 	</record>
 	<record>
 		<mcc>248</mcc>
-		<mnc>01</mnc>
+		<mnc>13</mnc>
 		<iso>ee</iso>
 		<country>Estonia</country>
 		<country_code>372</country_code>
@@ -5250,19 +5250,19 @@
 	</record>
 	<record>
 		<mcc>750</mcc>
-		<mnc>299</mnc>
-		<iso>fk</iso>
-		<country>Falkland Islands</country>
-		<country_code>500</country_code>
-		<network>Failed Calls</network>
-	</record>
-	<record>
-		<mcc>750</mcc>
 		<mnc>999</mnc>
 		<iso>fk</iso>
 		<country>Falkland Islands</country>
 		<country_code>500</country_code>
 		<network>Fix Line</network>
+	</record>
+	<record>
+		<mcc>750</mcc>
+		<mnc>299</mnc>
+		<iso>fk</iso>
+		<country>Falkland Islands</country>
+		<country_code>500</country_code>
+		<network>Failed Calls</network>
 	</record>
 	<record>
 		<mcc>750</mcc>
@@ -5386,7 +5386,7 @@
 	</record>
 	<record>
 		<mcc>244</mcc>
-		<mnc>03</mnc>
+		<mnc>13</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
 		<country_code>358</country_code>
@@ -5402,7 +5402,7 @@
 	</record>
 	<record>
 		<mcc>244</mcc>
-		<mnc>13</mnc>
+		<mnc>03</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
 		<country_code>358</country_code>
@@ -5498,7 +5498,7 @@
 	</record>
 	<record>
 		<mcc>244</mcc>
-		<mnc>07</mnc>
+		<mnc>38</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
 		<country_code>358</country_code>
@@ -5514,14 +5514,6 @@
 	</record>
 	<record>
 		<mcc>244</mcc>
-		<mnc>38</mnc>
-		<iso>fi</iso>
-		<country>Finland</country>
-		<country_code>358</country_code>
-		<network>NSN</network>
-	</record>
-	<record>
-		<mcc>244</mcc>
 		<mnc>41</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
@@ -5530,7 +5522,7 @@
 	</record>
 	<record>
 		<mcc>244</mcc>
-		<mnc>08</mnc>
+		<mnc>40</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
 		<country_code>358</country_code>
@@ -5538,7 +5530,15 @@
 	</record>
 	<record>
 		<mcc>244</mcc>
-		<mnc>40</mnc>
+		<mnc>07</mnc>
+		<iso>fi</iso>
+		<country>Finland</country>
+		<country_code>358</country_code>
+		<network>NSN</network>
+	</record>
+	<record>
+		<mcc>244</mcc>
+		<mnc>08</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
 		<country_code>358</country_code>
@@ -5642,22 +5642,6 @@
 	</record>
 	<record>
 		<mcc>244</mcc>
-		<mnc>45</mnc>
-		<iso>fi</iso>
-		<country>Finland</country>
-		<country_code>358</country_code>
-		<network>VIRVE</network>
-	</record>
-	<record>
-		<mcc>244</mcc>
-		<mnc>33</mnc>
-		<iso>fi</iso>
-		<country>Finland</country>
-		<country_code>358</country_code>
-		<network>VIRVE</network>
-	</record>
-	<record>
-		<mcc>244</mcc>
 		<mnc>47</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
@@ -5667,6 +5651,22 @@
 	<record>
 		<mcc>244</mcc>
 		<mnc>46</mnc>
+		<iso>fi</iso>
+		<country>Finland</country>
+		<country_code>358</country_code>
+		<network>VIRVE</network>
+	</record>
+	<record>
+		<mcc>244</mcc>
+		<mnc>45</mnc>
+		<iso>fi</iso>
+		<country>Finland</country>
+		<country_code>358</country_code>
+		<network>VIRVE</network>
+	</record>
+	<record>
+		<mcc>244</mcc>
+		<mnc>33</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
 		<country_code>358</country_code>
@@ -5930,14 +5930,6 @@
 	</record>
 	<record>
 		<mcc>208</mcc>
-		<mnc>35</mnc>
-		<iso>fr</iso>
-		<country>France</country>
-		<country_code>33</country_code>
-		<network>Free Mobile</network>
-	</record>
-	<record>
-		<mcc>208</mcc>
 		<mnc>16</mnc>
 		<iso>fr</iso>
 		<country>France</country>
@@ -5955,6 +5947,14 @@
 	<record>
 		<mcc>208</mcc>
 		<mnc>36</mnc>
+		<iso>fr</iso>
+		<country>France</country>
+		<country_code>33</country_code>
+		<network>Free Mobile</network>
+	</record>
+	<record>
+		<mcc>208</mcc>
+		<mnc>35</mnc>
 		<iso>fr</iso>
 		<country>France</country>
 		<country_code>33</country_code>
@@ -6114,7 +6114,7 @@
 	</record>
 	<record>
 		<mcc>208</mcc>
-		<mnc>24</mnc>
+		<mnc>03</mnc>
 		<iso>fr</iso>
 		<country>France</country>
 		<country_code>33</country_code>
@@ -6122,7 +6122,7 @@
 	</record>
 	<record>
 		<mcc>208</mcc>
-		<mnc>03</mnc>
+		<mnc>24</mnc>
 		<iso>fr</iso>
 		<country>France</country>
 		<country_code>33</country_code>
@@ -6178,22 +6178,6 @@
 	</record>
 	<record>
 		<mcc>208</mcc>
-		<mnc>91</mnc>
-		<iso>fr</iso>
-		<country>France</country>
-		<country_code>33</country_code>
-		<network>Orange</network>
-	</record>
-	<record>
-		<mcc>208</mcc>
-		<mnc>02</mnc>
-		<iso>fr</iso>
-		<country>France</country>
-		<country_code>33</country_code>
-		<network>Orange</network>
-	</record>
-	<record>
-		<mcc>208</mcc>
 		<mnc>32</mnc>
 		<iso>fr</iso>
 		<country>France</country>
@@ -6203,6 +6187,22 @@
 	<record>
 		<mcc>208</mcc>
 		<mnc>01</mnc>
+		<iso>fr</iso>
+		<country>France</country>
+		<country_code>33</country_code>
+		<network>Orange</network>
+	</record>
+	<record>
+		<mcc>208</mcc>
+		<mnc>91</mnc>
+		<iso>fr</iso>
+		<country>France</country>
+		<country_code>33</country_code>
+		<network>Orange</network>
+	</record>
+	<record>
+		<mcc>208</mcc>
+		<mnc>02</mnc>
 		<iso>fr</iso>
 		<country>France</country>
 		<country_code>33</country_code>
@@ -6258,14 +6258,6 @@
 	</record>
 	<record>
 		<mcc>208</mcc>
-		<mnc>08</mnc>
-		<iso>fr</iso>
-		<country>France</country>
-		<country_code>33</country_code>
-		<network>SFR</network>
-	</record>
-	<record>
-		<mcc>208</mcc>
 		<mnc>10</mnc>
 		<iso>fr</iso>
 		<country>France</country>
@@ -6282,7 +6274,7 @@
 	</record>
 	<record>
 		<mcc>208</mcc>
-		<mnc>13</mnc>
+		<mnc>08</mnc>
 		<iso>fr</iso>
 		<country>France</country>
 		<country_code>33</country_code>
@@ -6291,6 +6283,14 @@
 	<record>
 		<mcc>208</mcc>
 		<mnc>11</mnc>
+		<iso>fr</iso>
+		<country>France</country>
+		<country_code>33</country_code>
+		<network>SFR</network>
+	</record>
+	<record>
+		<mcc>208</mcc>
+		<mnc>13</mnc>
 		<iso>fr</iso>
 		<country>France</country>
 		<country_code>33</country_code>
@@ -6674,6 +6674,14 @@
 	</record>
 	<record>
 		<mcc>262</mcc>
+		<mnc>22</mnc>
+		<iso>de</iso>
+		<country>Germany</country>
+		<country_code>49</country_code>
+		<network>sipgate</network>
+	</record>
+	<record>
+		<mcc>262</mcc>
 		<mnc>12</mnc>
 		<iso>de</iso>
 		<country>Germany</country>
@@ -6682,11 +6690,11 @@
 	</record>
 	<record>
 		<mcc>262</mcc>
-		<mnc>22</mnc>
+		<mnc>01</mnc>
 		<iso>de</iso>
 		<country>Germany</country>
 		<country_code>49</country_code>
-		<network>sipgate</network>
+		<network>T-mobile</network>
 	</record>
 	<record>
 		<mcc>262</mcc>
@@ -6706,14 +6714,6 @@
 	</record>
 	<record>
 		<mcc>262</mcc>
-		<mnc>01</mnc>
-		<iso>de</iso>
-		<country>Germany</country>
-		<country_code>49</country_code>
-		<network>T-mobile</network>
-	</record>
-	<record>
-		<mcc>262</mcc>
 		<mnc>24</mnc>
 		<iso>de</iso>
 		<country>Germany</country>
@@ -6722,7 +6722,7 @@
 	</record>
 	<record>
 		<mcc>262</mcc>
-		<mnc>20</mnc>
+		<mnc>17</mnc>
 		<iso>de</iso>
 		<country>Germany</country>
 		<country_code>49</country_code>
@@ -6746,23 +6746,7 @@
 	</record>
 	<record>
 		<mcc>262</mcc>
-		<mnc>17</mnc>
-		<iso>de</iso>
-		<country>Germany</country>
-		<country_code>49</country_code>
-		<network>Telefonica / O2</network>
-	</record>
-	<record>
-		<mcc>262</mcc>
-		<mnc>08</mnc>
-		<iso>de</iso>
-		<country>Germany</country>
-		<country_code>49</country_code>
-		<network>Telefonica / O2</network>
-	</record>
-	<record>
-		<mcc>262</mcc>
-		<mnc>16</mnc>
+		<mnc>20</mnc>
 		<iso>de</iso>
 		<country>Germany</country>
 		<country_code>49</country_code>
@@ -6786,6 +6770,22 @@
 	</record>
 	<record>
 		<mcc>262</mcc>
+		<mnc>16</mnc>
+		<iso>de</iso>
+		<country>Germany</country>
+		<country_code>49</country_code>
+		<network>Telefonica / O2</network>
+	</record>
+	<record>
+		<mcc>262</mcc>
+		<mnc>08</mnc>
+		<iso>de</iso>
+		<country>Germany</country>
+		<country_code>49</country_code>
+		<network>Telefonica / O2</network>
+	</record>
+	<record>
+		<mcc>262</mcc>
 		<mnc>299</mnc>
 		<iso>de</iso>
 		<country>Germany</country>
@@ -6802,14 +6802,6 @@
 	</record>
 	<record>
 		<mcc>262</mcc>
-		<mnc>09</mnc>
-		<iso>de</iso>
-		<country>Germany</country>
-		<country_code>49</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>262</mcc>
 		<mnc>04</mnc>
 		<iso>de</iso>
 		<country>Germany</country>
@@ -6819,6 +6811,14 @@
 	<record>
 		<mcc>262</mcc>
 		<mnc>02</mnc>
+		<iso>de</iso>
+		<country>Germany</country>
+		<country_code>49</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>262</mcc>
+		<mnc>09</mnc>
 		<iso>de</iso>
 		<country>Germany</country>
 		<country_code>49</country_code>
@@ -6962,7 +6962,7 @@
 	</record>
 	<record>
 		<mcc>202</mcc>
-		<mnc>01</mnc>
+		<mnc>02</mnc>
 		<iso>gr</iso>
 		<country>Greece</country>
 		<country_code>30</country_code>
@@ -6970,7 +6970,7 @@
 	</record>
 	<record>
 		<mcc>202</mcc>
-		<mnc>02</mnc>
+		<mnc>01</mnc>
 		<iso>gr</iso>
 		<country>Greece</country>
 		<country_code>30</country_code>
@@ -7066,7 +7066,7 @@
 	</record>
 	<record>
 		<mcc>202</mcc>
-		<mnc>10</mnc>
+		<mnc>09</mnc>
 		<iso>gr</iso>
 		<country>Greece</country>
 		<country_code>30</country_code>
@@ -7074,7 +7074,7 @@
 	</record>
 	<record>
 		<mcc>202</mcc>
-		<mnc>09</mnc>
+		<mnc>10</mnc>
 		<iso>gr</iso>
 		<country>Greece</country>
 		<country_code>30</country_code>
@@ -7474,7 +7474,7 @@
 	</record>
 	<record>
 		<mcc>708</mcc>
-		<mnc>030</mnc>
+		<mnc>30</mnc>
 		<iso>hn</iso>
 		<country>Honduras</country>
 		<country_code>504</country_code>
@@ -7482,7 +7482,7 @@
 	</record>
 	<record>
 		<mcc>708</mcc>
-		<mnc>30</mnc>
+		<mnc>030</mnc>
 		<iso>hn</iso>
 		<country>Honduras</country>
 		<country_code>504</country_code>
@@ -7506,22 +7506,6 @@
 	</record>
 	<record>
 		<mcc>454</mcc>
-		<mnc>04</mnc>
-		<iso>hk</iso>
-		<country>Hong Kong</country>
-		<country_code>852</country_code>
-		<network>3</network>
-	</record>
-	<record>
-		<mcc>454</mcc>
-		<mnc>03</mnc>
-		<iso>hk</iso>
-		<country>Hong Kong</country>
-		<country_code>852</country_code>
-		<network>3</network>
-	</record>
-	<record>
-		<mcc>454</mcc>
 		<mnc>14</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
@@ -7538,11 +7522,19 @@
 	</record>
 	<record>
 		<mcc>454</mcc>
-		<mnc>32</mnc>
+		<mnc>04</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
 		<country_code>852</country_code>
-		<network>HKBN</network>
+		<network>3</network>
+	</record>
+	<record>
+		<mcc>454</mcc>
+		<mnc>03</mnc>
+		<iso>hk</iso>
+		<country>Hong Kong</country>
+		<country_code>852</country_code>
+		<network>3</network>
 	</record>
 	<record>
 		<mcc>454</mcc>
@@ -7554,7 +7546,7 @@
 	</record>
 	<record>
 		<mcc>454</mcc>
-		<mnc>30</mnc>
+		<mnc>12</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
 		<country_code>852</country_code>
@@ -7562,7 +7554,15 @@
 	</record>
 	<record>
 		<mcc>454</mcc>
-		<mnc>12</mnc>
+		<mnc>32</mnc>
+		<iso>hk</iso>
+		<country>Hong Kong</country>
+		<country_code>852</country_code>
+		<network>HKBN</network>
+	</record>
+	<record>
+		<mcc>454</mcc>
+		<mnc>30</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
 		<country_code>852</country_code>
@@ -7618,7 +7618,7 @@
 	</record>
 	<record>
 		<mcc>454</mcc>
-		<mnc>394</mnc>
+		<mnc>390</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
 		<country_code>852</country_code>
@@ -7626,7 +7626,15 @@
 	</record>
 	<record>
 		<mcc>454</mcc>
-		<mnc>28</mnc>
+		<mnc>26</mnc>
+		<iso>hk</iso>
+		<country>Hong Kong</country>
+		<country_code>852</country_code>
+		<network>Government</network>
+	</record>
+	<record>
+		<mcc>454</mcc>
+		<mnc>394</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
 		<country_code>852</country_code>
@@ -7650,7 +7658,23 @@
 	</record>
 	<record>
 		<mcc>454</mcc>
+		<mnc>27</mnc>
+		<iso>hk</iso>
+		<country>Hong Kong</country>
+		<country_code>852</country_code>
+		<network>Government</network>
+	</record>
+	<record>
+		<mcc>454</mcc>
 		<mnc>397</mnc>
+		<iso>hk</iso>
+		<country>Hong Kong</country>
+		<country_code>852</country_code>
+		<network>Government</network>
+	</record>
+	<record>
+		<mcc>454</mcc>
+		<mnc>25</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
 		<country_code>852</country_code>
@@ -7666,15 +7690,7 @@
 	</record>
 	<record>
 		<mcc>454</mcc>
-		<mnc>26</mnc>
-		<iso>hk</iso>
-		<country>Hong Kong</country>
-		<country_code>852</country_code>
-		<network>Government</network>
-	</record>
-	<record>
-		<mcc>454</mcc>
-		<mnc>27</mnc>
+		<mnc>28</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
 		<country_code>852</country_code>
@@ -7683,14 +7699,6 @@
 	<record>
 		<mcc>454</mcc>
 		<mnc>396</mnc>
-		<iso>hk</iso>
-		<country>Hong Kong</country>
-		<country_code>852</country_code>
-		<network>Government</network>
-	</record>
-	<record>
-		<mcc>454</mcc>
-		<mnc>25</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
 		<country_code>852</country_code>
@@ -7714,19 +7722,19 @@
 	</record>
 	<record>
 		<mcc>454</mcc>
-		<mnc>390</mnc>
-		<iso>hk</iso>
-		<country>Hong Kong</country>
-		<country_code>852</country_code>
-		<network>Government</network>
-	</record>
-	<record>
-		<mcc>454</mcc>
 		<mnc>24</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
 		<country_code>852</country_code>
 		<network>Multibyte</network>
+	</record>
+	<record>
+		<mcc>454</mcc>
+		<mnc>17</mnc>
+		<iso>hk</iso>
+		<country>Hong Kong</country>
+		<country_code>852</country_code>
+		<network>SmarTone</network>
 	</record>
 	<record>
 		<mcc>454</mcc>
@@ -7746,22 +7754,6 @@
 	</record>
 	<record>
 		<mcc>454</mcc>
-		<mnc>17</mnc>
-		<iso>hk</iso>
-		<country>Hong Kong</country>
-		<country_code>852</country_code>
-		<network>SmarTone</network>
-	</record>
-	<record>
-		<mcc>454</mcc>
-		<mnc>20</mnc>
-		<iso>hk</iso>
-		<country>Hong Kong</country>
-		<country_code>852</country_code>
-		<network>SUN Mobile / CSL</network>
-	</record>
-	<record>
-		<mcc>454</mcc>
 		<mnc>18</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
@@ -7771,14 +7763,6 @@
 	<record>
 		<mcc>454</mcc>
 		<mnc>19</mnc>
-		<iso>hk</iso>
-		<country>Hong Kong</country>
-		<country_code>852</country_code>
-		<network>SUN Mobile / CSL</network>
-	</record>
-	<record>
-		<mcc>454</mcc>
-		<mnc>16</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
 		<country_code>852</country_code>
@@ -7803,6 +7787,22 @@
 	<record>
 		<mcc>454</mcc>
 		<mnc>10</mnc>
+		<iso>hk</iso>
+		<country>Hong Kong</country>
+		<country_code>852</country_code>
+		<network>SUN Mobile / CSL</network>
+	</record>
+	<record>
+		<mcc>454</mcc>
+		<mnc>16</mnc>
+		<iso>hk</iso>
+		<country>Hong Kong</country>
+		<country_code>852</country_code>
+		<network>SUN Mobile / CSL</network>
+	</record>
+	<record>
+		<mcc>454</mcc>
+		<mnc>20</mnc>
 		<iso>hk</iso>
 		<country>Hong Kong</country>
 		<country_code>852</country_code>
@@ -7954,14 +7954,6 @@
 	</record>
 	<record>
 		<mcc>274</mcc>
-		<mnc>01</mnc>
-		<iso>is</iso>
-		<country>Iceland</country>
-		<country_code>354</country_code>
-		<network>Siminn</network>
-	</record>
-	<record>
-		<mcc>274</mcc>
 		<mnc>31</mnc>
 		<iso>is</iso>
 		<country>Iceland</country>
@@ -7971,6 +7963,14 @@
 	<record>
 		<mcc>274</mcc>
 		<mnc>08</mnc>
+		<iso>is</iso>
+		<country>Iceland</country>
+		<country_code>354</country_code>
+		<network>Siminn</network>
+	</record>
+	<record>
+		<mcc>274</mcc>
+		<mnc>01</mnc>
 		<iso>is</iso>
 		<country>Iceland</country>
 		<country_code>354</country_code>
@@ -7994,22 +7994,6 @@
 	</record>
 	<record>
 		<mcc>274</mcc>
-		<mnc>03</mnc>
-		<iso>is</iso>
-		<country>Iceland</country>
-		<country_code>354</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>274</mcc>
-		<mnc>02</mnc>
-		<iso>is</iso>
-		<country>Iceland</country>
-		<country_code>354</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>274</mcc>
 		<mnc>12</mnc>
 		<iso>is</iso>
 		<country>Iceland</country>
@@ -8017,28 +8001,20 @@
 		<network>Vodafone</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>28</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Aircel</network>
+		<mcc>274</mcc>
+		<mnc>02</mnc>
+		<iso>is</iso>
+		<country>Iceland</country>
+		<country_code>354</country_code>
+		<network>Vodafone</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>42</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Aircel</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>17</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Aircel</network>
+		<mcc>274</mcc>
+		<mnc>03</mnc>
+		<iso>is</iso>
+		<country>Iceland</country>
+		<country_code>354</country_code>
+		<network>Vodafone</network>
 	</record>
 	<record>
 		<mcc>405</mcc>
@@ -8066,7 +8042,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>37</mnc>
+		<mnc>41</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8081,16 +8057,16 @@
 		<network>Airtel</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>35</mnc>
+		<mcc>405</mcc>
+		<mnc>91</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
 		<network>Aircel</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>91</mnc>
+		<mcc>404</mcc>
+		<mnc>28</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8121,8 +8097,32 @@
 		<network>Airtel</network>
 	</record>
 	<record>
+		<mcc>404</mcc>
+		<mnc>91</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Aircel</network>
+	</record>
+	<record>
 		<mcc>405</mcc>
 		<mnc>35</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Aircel</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>37</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Aircel</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>17</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8146,7 +8146,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>91</mnc>
+		<mnc>35</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8169,28 +8169,12 @@
 		<network>Airtel</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>25</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Aircel</network>
-	</record>
-	<record>
 		<mcc>405</mcc>
 		<mnc>31</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
 		<network>Airtel</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>33</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Aircel</network>
 	</record>
 	<record>
 		<mcc>405</mcc>
@@ -8225,14 +8209,6 @@
 		<network>Aircel</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>42</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Aircel</network>
-	</record>
-	<record>
 		<mcc>405</mcc>
 		<mnc>98</mnc>
 		<iso>in</iso>
@@ -8249,16 +8225,16 @@
 		<network>Airtel</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>29</mnc>
+		<mcc>405</mcc>
+		<mnc>41</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
 		<network>Aircel</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>41</mnc>
+		<mcc>404</mcc>
+		<mnc>33</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8281,6 +8257,14 @@
 		<network>Airtel</network>
 	</record>
 	<record>
+		<mcc>404</mcc>
+		<mnc>25</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Aircel</network>
+	</record>
+	<record>
 		<mcc>405</mcc>
 		<mnc>29</mnc>
 		<iso>in</iso>
@@ -8290,7 +8274,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>41</mnc>
+		<mnc>42</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8305,28 +8289,20 @@
 		<network>Airtel</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>03</mnc>
+		<mcc>405</mcc>
+		<mnc>42</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
-		<network>Airtel</network>
+		<network>Aircel</network>
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>92</mnc>
+		<mnc>29</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
-		<network>Airtel</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>31</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Airtel</network>
+		<network>Aircel</network>
 	</record>
 	<record>
 		<mcc>404</mcc>
@@ -8433,32 +8409,32 @@
 		<network>Airtel</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>73</mnc>
+		<mcc>404</mcc>
+		<mnc>03</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
+		<network>Airtel</network>
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>51</mnc>
+		<mnc>92</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>55</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
+		<network>Airtel</network>
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>66</mnc>
+		<mnc>31</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Airtel</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>74</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8482,38 +8458,6 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>57</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>38</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>74</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>74</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
 		<mnc>38</mnc>
 		<iso>in</iso>
 		<country>India</country>
@@ -8522,7 +8466,7 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>57</mnc>
+		<mnc>38</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8531,6 +8475,46 @@
 	<record>
 		<mcc>404</mcc>
 		<mnc>64</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>74</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>80</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>57</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>55</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>73</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8554,7 +8538,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>55</mnc>
+		<mnc>34</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8570,38 +8554,6 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>73</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>75</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>34</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>58</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
 		<mnc>62</mnc>
 		<iso>in</iso>
 		<country>India</country>
@@ -8618,7 +8570,15 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>71</mnc>
+		<mnc>75</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>58</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8627,14 +8587,6 @@
 	<record>
 		<mcc>404</mcc>
 		<mnc>54</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>53</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8650,6 +8602,38 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
+		<mnc>71</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>53</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>59</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>76</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
 		<mnc>76</mnc>
 		<iso>in</iso>
 		<country>India</country>
@@ -8666,7 +8650,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>59</mnc>
+		<mnc>53</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8674,7 +8658,87 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>76</mnc>
+		<mnc>71</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>72</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>54</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>58</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>75</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>77</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>62</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>51</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>34</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>66</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>73</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8690,7 +8754,7 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>72</mnc>
+		<mnc>55</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8698,71 +8762,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>53</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>54</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>71</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>77</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>62</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>58</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>34</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>75</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>80</mnc>
+		<mnc>57</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8793,7 +8793,7 @@
 		<network>Failed Calls</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
+		<mcc>405</mcc>
 		<mnc>999</mnc>
 		<iso>in</iso>
 		<country>India</country>
@@ -8801,7 +8801,7 @@
 		<network>Fix Line</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
+		<mcc>404</mcc>
 		<mnc>999</mnc>
 		<iso>in</iso>
 		<country>India</country>
@@ -8826,278 +8826,6 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>44</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>852</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>852</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>44</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>12</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>845</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>846</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>14</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>24</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>853</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>850</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>56</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>07</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>82</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>848</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>89</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>19</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>22</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>87</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>849</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>78</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>04</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>04</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>78</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>849</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>87</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>22</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>19</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>89</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>848</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>82</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>07</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>56</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>850</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
 		<mnc>853</mnc>
 		<iso>in</iso>
 		<country>India</country>
@@ -9106,7 +8834,7 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>24</mnc>
+		<mnc>44</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9130,7 +8858,263 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
+		<mnc>846</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>14</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>44</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>853</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>56</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>852</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>12</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
 		<mnc>845</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>848</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>19</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>24</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>87</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>78</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>850</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>04</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>07</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>82</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>849</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>89</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>22</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>22</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>89</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>82</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>849</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>07</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>04</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>78</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>850</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>87</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>24</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>19</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>845</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>848</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9146,19 +9130,19 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>864</mnc>
+		<mnc>56</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
-		<network>Jio</network>
+		<network>Idea</network>
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>868</mnc>
+		<mnc>852</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
-		<network>Jio</network>
+		<network>Idea</network>
 	</record>
 	<record>
 		<mcc>405</mcc>
@@ -9170,23 +9154,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>859</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>869</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>861</mnc>
+		<mnc>855</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9195,6 +9163,14 @@
 	<record>
 		<mcc>405</mcc>
 		<mnc>873</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>868</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9218,255 +9194,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>856</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>865</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>869</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>860</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>860</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>870</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>874</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>861</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>865</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>874</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>856</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>857</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>866</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>870</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>861</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>871</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>854</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>862</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>866</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>857</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>867</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>871</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>862</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>872</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>855</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>863</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>867</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
 		<mnc>858</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>858</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>868</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>872</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Jio</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>863</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9482,7 +9210,279 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
+		<mnc>869</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>864</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>860</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>874</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>869</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>865</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>856</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>859</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>870</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>865</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>861</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>856</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>870</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>866</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>861</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>857</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>861</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>860</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>874</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>871</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>866</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>862</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>857</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>871</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>867</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>862</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>858</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
 		<mnc>854</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>872</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>867</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>863</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>854</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>872</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>868</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Jio</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>863</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9505,7 +9505,31 @@
 		<network>Loop Mobile</network>
 	</record>
 	<record>
+		<mcc>404</mcc>
+		<mnc>67</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Reliance Mobile</network>
+	</record>
+	<record>
 		<mcc>405</mcc>
+		<mnc>83</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Reliance Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>09</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Reliance Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
 		<mnc>23</mnc>
 		<iso>in</iso>
 		<country>India</country>
@@ -9513,30 +9537,6 @@
 		<network>Reliance Mobile</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>83</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Reliance Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>83</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Reliance Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>36</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Reliance Mobile</network>
-	</record>
-	<record>
 		<mcc>405</mcc>
 		<mnc>36</mnc>
 		<iso>in</iso>
@@ -9546,7 +9546,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>85</mnc>
+		<mnc>83</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9570,7 +9570,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>50</mnc>
+		<mnc>36</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9579,6 +9579,14 @@
 	<record>
 		<mcc>405</mcc>
 		<mnc>50</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Reliance Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>85</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9594,7 +9602,39 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
+		<mnc>50</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Reliance Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
 		<mnc>52</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Reliance Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>18</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Reliance Mobile</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>52</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Reliance Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>67</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9609,14 +9649,6 @@
 		<network>Reliance Mobile</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>52</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Reliance Mobile</network>
-	</record>
-	<record>
 		<mcc>404</mcc>
 		<mnc>18</mnc>
 		<iso>in</iso>
@@ -9626,38 +9658,6 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>18</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Reliance Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>67</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Reliance Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>09</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Reliance Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>67</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Reliance Mobile</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
 		<mnc>23</mnc>
 		<iso>in</iso>
 		<country>India</country>
@@ -9665,48 +9665,8 @@
 		<network>Reliance Mobile</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>30</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>88</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
 		<mcc>405</mcc>
 		<mnc>15</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>11</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>84</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>46</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9722,7 +9682,7 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>20</mnc>
+		<mnc>46</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9746,15 +9706,7 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>60</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>05</mnc>
+		<mnc>20</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9770,7 +9722,15 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>27</mnc>
+		<mnc>60</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>05</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9794,15 +9754,7 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>84</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>11</mnc>
+		<mnc>27</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9826,7 +9778,15 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>30</mnc>
+		<mnc>84</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>11</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9842,6 +9802,30 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
+		<mnc>30</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>13</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>86</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
 		<mnc>86</mnc>
 		<iso>in</iso>
 		<country>India</country>
@@ -9858,15 +9842,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>13</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
-		<mnc>86</mnc>
+		<mnc>30</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9883,6 +9859,30 @@
 	<record>
 		<mcc>405</mcc>
 		<mnc>01</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>11</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>84</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>88</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9914,14 +9914,6 @@
 	</record>
 	<record>
 		<mcc>510</mcc>
-		<mnc>01</mnc>
-		<iso>id</iso>
-		<country>Indonesia</country>
-		<country_code>62</country_code>
-		<network>Indosat Ooredoo</network>
-	</record>
-	<record>
-		<mcc>510</mcc>
 		<mnc>21</mnc>
 		<iso>id</iso>
 		<country>Indonesia</country>
@@ -9938,19 +9930,19 @@
 	</record>
 	<record>
 		<mcc>510</mcc>
+		<mnc>01</mnc>
+		<iso>id</iso>
+		<country>Indonesia</country>
+		<country_code>62</country_code>
+		<network>Indosat Ooredoo</network>
+	</record>
+	<record>
+		<mcc>510</mcc>
 		<mnc>27</mnc>
 		<iso>id</iso>
 		<country>Indonesia</country>
 		<country_code>62</country_code>
 		<network>Net1</network>
-	</record>
-	<record>
-		<mcc>510</mcc>
-		<mnc>99</mnc>
-		<iso>id</iso>
-		<country>Indonesia</country>
-		<country_code>62</country_code>
-		<network>Smartfren</network>
 	</record>
 	<record>
 		<mcc>510</mcc>
@@ -9970,7 +9962,15 @@
 	</record>
 	<record>
 		<mcc>510</mcc>
-		<mnc>10</mnc>
+		<mnc>99</mnc>
+		<iso>id</iso>
+		<country>Indonesia</country>
+		<country_code>62</country_code>
+		<network>Smartfren</network>
+	</record>
+	<record>
+		<mcc>510</mcc>
+		<mnc>20</mnc>
 		<iso>id</iso>
 		<country>Indonesia</country>
 		<country_code>62</country_code>
@@ -9978,7 +9978,7 @@
 	</record>
 	<record>
 		<mcc>510</mcc>
-		<mnc>20</mnc>
+		<mnc>10</mnc>
 		<iso>id</iso>
 		<country>Indonesia</country>
 		<country_code>62</country_code>
@@ -10706,7 +10706,7 @@
 	</record>
 	<record>
 		<mcc>418</mcc>
-		<mnc>20</mnc>
+		<mnc>30</mnc>
 		<iso>iq</iso>
 		<country>Iraq</country>
 		<country_code>964</country_code>
@@ -10714,11 +10714,19 @@
 	</record>
 	<record>
 		<mcc>418</mcc>
-		<mnc>30</mnc>
+		<mnc>20</mnc>
 		<iso>iq</iso>
 		<country>Iraq</country>
 		<country_code>964</country_code>
 		<network>Zain</network>
+	</record>
+	<record>
+		<mcc>272</mcc>
+		<mnc>17</mnc>
+		<iso>ie</iso>
+		<country>Ireland</country>
+		<country_code>353</country_code>
+		<network>3</network>
 	</record>
 	<record>
 		<mcc>272</mcc>
@@ -10731,14 +10739,6 @@
 	<record>
 		<mcc>272</mcc>
 		<mnc>02</mnc>
-		<iso>ie</iso>
-		<country>Ireland</country>
-		<country_code>353</country_code>
-		<network>3</network>
-	</record>
-	<record>
-		<mcc>272</mcc>
-		<mnc>17</mnc>
 		<iso>ie</iso>
 		<country>Ireland</country>
 		<country_code>353</country_code>
@@ -10794,6 +10794,14 @@
 	</record>
 	<record>
 		<mcc>272</mcc>
+		<mnc>07</mnc>
+		<iso>ie</iso>
+		<country>Ireland</country>
+		<country_code>353</country_code>
+		<network>Meteor</network>
+	</record>
+	<record>
+		<mcc>272</mcc>
 		<mnc>08</mnc>
 		<iso>ie</iso>
 		<country>Ireland</country>
@@ -10803,14 +10811,6 @@
 	<record>
 		<mcc>272</mcc>
 		<mnc>03</mnc>
-		<iso>ie</iso>
-		<country>Ireland</country>
-		<country_code>353</country_code>
-		<network>Meteor</network>
-	</record>
-	<record>
-		<mcc>272</mcc>
-		<mnc>07</mnc>
 		<iso>ie</iso>
 		<country>Ireland</country>
 		<country_code>353</country_code>
@@ -10938,7 +10938,7 @@
 	</record>
 	<record>
 		<mcc>425</mcc>
-		<mnc>07</mnc>
+		<mnc>77</mnc>
 		<iso>il</iso>
 		<country>Israel</country>
 		<country_code>972</country_code>
@@ -10946,7 +10946,7 @@
 	</record>
 	<record>
 		<mcc>425</mcc>
-		<mnc>77</mnc>
+		<mnc>07</mnc>
 		<iso>il</iso>
 		<country>Israel</country>
 		<country_code>972</country_code>
@@ -10978,7 +10978,7 @@
 	</record>
 	<record>
 		<mcc>425</mcc>
-		<mnc>03</mnc>
+		<mnc>12</mnc>
 		<iso>il</iso>
 		<country>Israel</country>
 		<country_code>972</country_code>
@@ -10986,7 +10986,7 @@
 	</record>
 	<record>
 		<mcc>425</mcc>
-		<mnc>12</mnc>
+		<mnc>03</mnc>
 		<iso>il</iso>
 		<country>Israel</country>
 		<country_code>972</country_code>
@@ -11242,6 +11242,14 @@
 	</record>
 	<record>
 		<mcc>222</mcc>
+		<mnc>01</mnc>
+		<iso>it</iso>
+		<country>Italy</country>
+		<country_code>39</country_code>
+		<network>TIM</network>
+	</record>
+	<record>
+		<mcc>222</mcc>
 		<mnc>48</mnc>
 		<iso>it</iso>
 		<country>Italy</country>
@@ -11255,14 +11263,6 @@
 		<country>Italy</country>
 		<country_code>39</country_code>
 		<network>Telecom Italia Mobile</network>
-	</record>
-	<record>
-		<mcc>222</mcc>
-		<mnc>01</mnc>
-		<iso>it</iso>
-		<country>Italy</country>
-		<country_code>39</country_code>
-		<network>TIM</network>
 	</record>
 	<record>
 		<mcc>222</mcc>
@@ -11306,7 +11306,7 @@
 	</record>
 	<record>
 		<mcc>222</mcc>
-		<mnc>06</mnc>
+		<mnc>10</mnc>
 		<iso>it</iso>
 		<country>Italy</country>
 		<country_code>39</country_code>
@@ -11314,7 +11314,7 @@
 	</record>
 	<record>
 		<mcc>222</mcc>
-		<mnc>10</mnc>
+		<mnc>06</mnc>
 		<iso>it</iso>
 		<country>Italy</country>
 		<country_code>39</country_code>
@@ -11418,7 +11418,7 @@
 	</record>
 	<record>
 		<mcc>338</mcc>
-		<mnc>180</mnc>
+		<mnc>110</mnc>
 		<iso>jm</iso>
 		<country>Jamaica</country>
 		<country_code>1876</country_code>
@@ -11426,7 +11426,7 @@
 	</record>
 	<record>
 		<mcc>338</mcc>
-		<mnc>110</mnc>
+		<mnc>180</mnc>
 		<iso>jm</iso>
 		<country>Jamaica</country>
 		<country_code>1876</country_code>
@@ -11447,62 +11447,6 @@
 		<country>Japan</country>
 		<country_code>81</country_code>
 		<network>Fix Line</network>
-	</record>
-	<record>
-		<mcc>440</mcc>
-		<mnc>76</mnc>
-		<iso>jp</iso>
-		<country>Japan</country>
-		<country_code>81</country_code>
-		<network>KDDI</network>
-	</record>
-	<record>
-		<mcc>440</mcc>
-		<mnc>54</mnc>
-		<iso>jp</iso>
-		<country>Japan</country>
-		<country_code>81</country_code>
-		<network>KDDI</network>
-	</record>
-	<record>
-		<mcc>440</mcc>
-		<mnc>72</mnc>
-		<iso>jp</iso>
-		<country>Japan</country>
-		<country_code>81</country_code>
-		<network>KDDI</network>
-	</record>
-	<record>
-		<mcc>440</mcc>
-		<mnc>50</mnc>
-		<iso>jp</iso>
-		<country>Japan</country>
-		<country_code>81</country_code>
-		<network>KDDI</network>
-	</record>
-	<record>
-		<mcc>440</mcc>
-		<mnc>70</mnc>
-		<iso>jp</iso>
-		<country>Japan</country>
-		<country_code>81</country_code>
-		<network>KDDI</network>
-	</record>
-	<record>
-		<mcc>440</mcc>
-		<mnc>73</mnc>
-		<iso>jp</iso>
-		<country>Japan</country>
-		<country_code>81</country_code>
-		<network>KDDI</network>
-	</record>
-	<record>
-		<mcc>440</mcc>
-		<mnc>51</mnc>
-		<iso>jp</iso>
-		<country>Japan</country>
-		<country_code>81</country_code>
-		<network>KDDI</network>
 	</record>
 	<record>
 		<mcc>440</mcc>
@@ -11546,6 +11490,62 @@
 	</record>
 	<record>
 		<mcc>440</mcc>
+		<mnc>70</mnc>
+		<iso>jp</iso>
+		<country>Japan</country>
+		<country_code>81</country_code>
+		<network>KDDI</network>
+	</record>
+	<record>
+		<mcc>440</mcc>
+		<mnc>76</mnc>
+		<iso>jp</iso>
+		<country>Japan</country>
+		<country_code>81</country_code>
+		<network>KDDI</network>
+	</record>
+	<record>
+		<mcc>440</mcc>
+		<mnc>54</mnc>
+		<iso>jp</iso>
+		<country>Japan</country>
+		<country_code>81</country_code>
+		<network>KDDI</network>
+	</record>
+	<record>
+		<mcc>440</mcc>
+		<mnc>72</mnc>
+		<iso>jp</iso>
+		<country>Japan</country>
+		<country_code>81</country_code>
+		<network>KDDI</network>
+	</record>
+	<record>
+		<mcc>440</mcc>
+		<mnc>50</mnc>
+		<iso>jp</iso>
+		<country>Japan</country>
+		<country_code>81</country_code>
+		<network>KDDI</network>
+	</record>
+	<record>
+		<mcc>440</mcc>
+		<mnc>73</mnc>
+		<iso>jp</iso>
+		<country>Japan</country>
+		<country_code>81</country_code>
+		<network>KDDI</network>
+	</record>
+	<record>
+		<mcc>440</mcc>
+		<mnc>51</mnc>
+		<iso>jp</iso>
+		<country>Japan</country>
+		<country_code>81</country_code>
+		<network>KDDI</network>
+	</record>
+	<record>
+		<mcc>440</mcc>
 		<mnc>10</mnc>
 		<iso>jp</iso>
 		<country>Japan</country>
@@ -11570,6 +11570,14 @@
 	</record>
 	<record>
 		<mcc>440</mcc>
+		<mnc>20</mnc>
+		<iso>jp</iso>
+		<country>Japan</country>
+		<country_code>81</country_code>
+		<network>SoftBank</network>
+	</record>
+	<record>
+		<mcc>440</mcc>
 		<mnc>21</mnc>
 		<iso>jp</iso>
 		<country>Japan</country>
@@ -11586,23 +11594,15 @@
 	</record>
 	<record>
 		<mcc>440</mcc>
-		<mnc>01</mnc>
-		<iso>jp</iso>
-		<country>Japan</country>
-		<country_code>81</country_code>
-		<network>SoftBank</network>
-	</record>
-	<record>
-		<mcc>440</mcc>
-		<mnc>20</mnc>
-		<iso>jp</iso>
-		<country>Japan</country>
-		<country_code>81</country_code>
-		<network>SoftBank</network>
-	</record>
-	<record>
-		<mcc>440</mcc>
 		<mnc>00</mnc>
+		<iso>jp</iso>
+		<country>Japan</country>
+		<country_code>81</country_code>
+		<network>SoftBank</network>
+	</record>
+	<record>
+		<mcc>440</mcc>
+		<mnc>01</mnc>
 		<iso>jp</iso>
 		<country>Japan</country>
 		<country_code>81</country_code>
@@ -11714,7 +11714,7 @@
 	</record>
 	<record>
 		<mcc>639</mcc>
-		<mnc>05</mnc>
+		<mnc>03</mnc>
 		<iso>ke</iso>
 		<country>Kenya</country>
 		<country_code>254</country_code>
@@ -11722,7 +11722,7 @@
 	</record>
 	<record>
 		<mcc>639</mcc>
-		<mnc>03</mnc>
+		<mnc>05</mnc>
 		<iso>ke</iso>
 		<country>Kenya</country>
 		<country_code>254</country_code>
@@ -11802,7 +11802,7 @@
 	</record>
 	<record>
 		<mcc>639</mcc>
-		<mnc>01</mnc>
+		<mnc>02</mnc>
 		<iso>ke</iso>
 		<country>Kenya</country>
 		<country_code>254</country_code>
@@ -11810,7 +11810,7 @@
 	</record>
 	<record>
 		<mcc>639</mcc>
-		<mnc>02</mnc>
+		<mnc>01</mnc>
 		<iso>ke</iso>
 		<country>Kenya</country>
 		<country_code>254</country_code>
@@ -12554,7 +12554,7 @@
 	</record>
 	<record>
 		<mcc>455</mcc>
-		<mnc>05</mnc>
+		<mnc>03</mnc>
 		<iso>mo</iso>
 		<country>Macao</country>
 		<country_code>853</country_code>
@@ -12562,7 +12562,7 @@
 	</record>
 	<record>
 		<mcc>455</mcc>
-		<mnc>03</mnc>
+		<mnc>05</mnc>
 		<iso>mo</iso>
 		<country>Macao</country>
 		<country_code>853</country_code>
@@ -12618,7 +12618,7 @@
 	</record>
 	<record>
 		<mcc>455</mcc>
-		<mnc>00</mnc>
+		<mnc>06</mnc>
 		<iso>mo</iso>
 		<country>Macao</country>
 		<country_code>853</country_code>
@@ -12626,7 +12626,7 @@
 	</record>
 	<record>
 		<mcc>455</mcc>
-		<mnc>06</mnc>
+		<mnc>00</mnc>
 		<iso>mo</iso>
 		<country>Macao</country>
 		<country_code>853</country_code>
@@ -12722,7 +12722,7 @@
 	</record>
 	<record>
 		<mcc>502</mcc>
-		<mnc>14</mnc>
+		<mnc>11</mnc>
 		<iso>my</iso>
 		<country>Malaysia</country>
 		<country_code>60</country_code>
@@ -12730,7 +12730,7 @@
 	</record>
 	<record>
 		<mcc>502</mcc>
-		<mnc>11</mnc>
+		<mnc>14</mnc>
 		<iso>my</iso>
 		<country>Malaysia</country>
 		<country_code>60</country_code>
@@ -12794,7 +12794,7 @@
 	</record>
 	<record>
 		<mcc>502</mcc>
-		<mnc>12</mnc>
+		<mnc>17</mnc>
 		<iso>my</iso>
 		<country>Malaysia</country>
 		<country_code>60</country_code>
@@ -12802,7 +12802,7 @@
 	</record>
 	<record>
 		<mcc>502</mcc>
-		<mnc>17</mnc>
+		<mnc>12</mnc>
 		<iso>my</iso>
 		<country>Malaysia</country>
 		<country_code>60</country_code>
@@ -12994,7 +12994,7 @@
 	</record>
 	<record>
 		<mcc>278</mcc>
-		<mnc>30</mnc>
+		<mnc>21</mnc>
 		<iso>mt</iso>
 		<country>Malta</country>
 		<country_code>356</country_code>
@@ -13002,7 +13002,7 @@
 	</record>
 	<record>
 		<mcc>278</mcc>
-		<mnc>21</mnc>
+		<mnc>30</mnc>
 		<iso>mt</iso>
 		<country>Malta</country>
 		<country_code>356</country_code>
@@ -13082,7 +13082,7 @@
 	</record>
 	<record>
 		<mcc>617</mcc>
-		<mnc>03</mnc>
+		<mnc>02</mnc>
 		<iso>mu</iso>
 		<country>Mauritius</country>
 		<country_code>230</country_code>
@@ -13090,7 +13090,7 @@
 	</record>
 	<record>
 		<mcc>617</mcc>
-		<mnc>02</mnc>
+		<mnc>03</mnc>
 		<iso>mu</iso>
 		<country>Mauritius</country>
 		<country_code>230</country_code>
@@ -13242,7 +13242,7 @@
 	</record>
 	<record>
 		<mcc>334</mcc>
-		<mnc>030</mnc>
+		<mnc>03</mnc>
 		<iso>mx</iso>
 		<country>Mexico</country>
 		<country_code>52</country_code>
@@ -13250,7 +13250,7 @@
 	</record>
 	<record>
 		<mcc>334</mcc>
-		<mnc>03</mnc>
+		<mnc>030</mnc>
 		<iso>mx</iso>
 		<country>Mexico</country>
 		<country_code>52</country_code>
@@ -13266,14 +13266,6 @@
 	</record>
 	<record>
 		<mcc>334</mcc>
-		<mnc>01</mnc>
-		<iso>mx</iso>
-		<country>Mexico</country>
-		<country_code>52</country_code>
-		<network>Nextel</network>
-	</record>
-	<record>
-		<mcc>334</mcc>
 		<mnc>90</mnc>
 		<iso>mx</iso>
 		<country>Mexico</country>
@@ -13283,6 +13275,14 @@
 	<record>
 		<mcc>334</mcc>
 		<mnc>010</mnc>
+		<iso>mx</iso>
+		<country>Mexico</country>
+		<country_code>52</country_code>
+		<network>Nextel</network>
+	</record>
+	<record>
+		<mcc>334</mcc>
+		<mnc>01</mnc>
 		<iso>mx</iso>
 		<country>Mexico</country>
 		<country_code>52</country_code>
@@ -13410,7 +13410,7 @@
 	</record>
 	<record>
 		<mcc>259</mcc>
-		<mnc>05</mnc>
+		<mnc>99</mnc>
 		<iso>md</iso>
 		<country>Moldova</country>
 		<country_code>373</country_code>
@@ -13418,7 +13418,7 @@
 	</record>
 	<record>
 		<mcc>259</mcc>
-		<mnc>99</mnc>
+		<mnc>05</mnc>
 		<iso>md</iso>
 		<country>Moldova</country>
 		<country_code>373</country_code>
@@ -13442,7 +13442,7 @@
 	</record>
 	<record>
 		<mcc>212</mcc>
-		<mnc>10</mnc>
+		<mnc>01</mnc>
 		<iso>mc</iso>
 		<country>Monaco</country>
 		<country_code>377</country_code>
@@ -13450,7 +13450,7 @@
 	</record>
 	<record>
 		<mcc>212</mcc>
-		<mnc>01</mnc>
+		<mnc>10</mnc>
 		<iso>mc</iso>
 		<country>Monaco</country>
 		<country_code>377</country_code>
@@ -13986,6 +13986,14 @@
 	</record>
 	<record>
 		<mcc>204</mcc>
+		<mnc>10</mnc>
+		<iso>nl</iso>
+		<country>Netherlands</country>
+		<country_code>31</country_code>
+		<network>KPN</network>
+	</record>
+	<record>
+		<mcc>204</mcc>
 		<mnc>69</mnc>
 		<iso>nl</iso>
 		<country>Netherlands</country>
@@ -14010,14 +14018,6 @@
 	</record>
 	<record>
 		<mcc>204</mcc>
-		<mnc>10</mnc>
-		<iso>nl</iso>
-		<country>Netherlands</country>
-		<country_code>31</country_code>
-		<network>KPN</network>
-	</record>
-	<record>
-		<mcc>204</mcc>
 		<mnc>27</mnc>
 		<iso>nl</iso>
 		<country>Netherlands</country>
@@ -14026,7 +14026,7 @@
 	</record>
 	<record>
 		<mcc>204</mcc>
-		<mnc>98</mnc>
+		<mnc>28</mnc>
 		<iso>nl</iso>
 		<country>Netherlands</country>
 		<country_code>31</country_code>
@@ -14034,7 +14034,7 @@
 	</record>
 	<record>
 		<mcc>204</mcc>
-		<mnc>28</mnc>
+		<mnc>98</mnc>
 		<iso>nl</iso>
 		<country>Netherlands</country>
 		<country_code>31</country_code>
@@ -14937,7 +14937,7 @@
 	</record>
 	<record>
 		<mcc>242</mcc>
-		<mnc>01</mnc>
+		<mnc>12</mnc>
 		<iso>no</iso>
 		<country>Norway</country>
 		<country_code>47</country_code>
@@ -14945,7 +14945,7 @@
 	</record>
 	<record>
 		<mcc>242</mcc>
-		<mnc>12</mnc>
+		<mnc>01</mnc>
 		<iso>no</iso>
 		<country>Norway</country>
 		<country_code>47</country_code>
@@ -15025,7 +15025,7 @@
 	</record>
 	<record>
 		<mcc>410</mcc>
-		<mnc>01</mnc>
+		<mnc>07</mnc>
 		<iso>pk</iso>
 		<country>Pakistan</country>
 		<country_code>92</country_code>
@@ -15033,7 +15033,7 @@
 	</record>
 	<record>
 		<mcc>410</mcc>
-		<mnc>07</mnc>
+		<mnc>01</mnc>
 		<iso>pk</iso>
 		<country>Pakistan</country>
 		<country_code>92</country_code>
@@ -15281,7 +15281,7 @@
 	</record>
 	<record>
 		<mcc>744</mcc>
-		<mnc>03</mnc>
+		<mnc>05</mnc>
 		<iso>py</iso>
 		<country>Paraguay</country>
 		<country_code>595</country_code>
@@ -15289,7 +15289,7 @@
 	</record>
 	<record>
 		<mcc>744</mcc>
-		<mnc>05</mnc>
+		<mnc>03</mnc>
 		<iso>py</iso>
 		<country>Paraguay</country>
 		<country_code>595</country_code>
@@ -15313,14 +15313,6 @@
 	</record>
 	<record>
 		<mcc>716</mcc>
-		<mnc>10</mnc>
-		<iso>pe</iso>
-		<country>Peru</country>
-		<country_code>51</country_code>
-		<network>Claro</network>
-	</record>
-	<record>
-		<mcc>716</mcc>
 		<mnc>70</mnc>
 		<iso>pe</iso>
 		<country>Peru</country>
@@ -15330,6 +15322,14 @@
 	<record>
 		<mcc>716</mcc>
 		<mnc>20</mnc>
+		<iso>pe</iso>
+		<country>Peru</country>
+		<country_code>51</country_code>
+		<network>Claro</network>
+	</record>
+	<record>
+		<mcc>716</mcc>
+		<mnc>10</mnc>
 		<iso>pe</iso>
 		<country>Peru</country>
 		<country_code>51</country_code>
@@ -15465,22 +15465,6 @@
 	</record>
 	<record>
 		<mcc>260</mcc>
-		<mnc>15</mnc>
-		<iso>pl</iso>
-		<country>Poland</country>
-		<country_code>48</country_code>
-		<network>Aero2</network>
-	</record>
-	<record>
-		<mcc>260</mcc>
-		<mnc>04</mnc>
-		<iso>pl</iso>
-		<country>Poland</country>
-		<country_code>48</country_code>
-		<network>Aero2</network>
-	</record>
-	<record>
-		<mcc>260</mcc>
 		<mnc>17</mnc>
 		<iso>pl</iso>
 		<country>Poland</country>
@@ -15490,6 +15474,22 @@
 	<record>
 		<mcc>260</mcc>
 		<mnc>16</mnc>
+		<iso>pl</iso>
+		<country>Poland</country>
+		<country_code>48</country_code>
+		<network>Aero2</network>
+	</record>
+	<record>
+		<mcc>260</mcc>
+		<mnc>15</mnc>
+		<iso>pl</iso>
+		<country>Poland</country>
+		<country_code>48</country_code>
+		<network>Aero2</network>
+	</record>
+	<record>
+		<mcc>260</mcc>
+		<mnc>04</mnc>
 		<iso>pl</iso>
 		<country>Poland</country>
 		<country_code>48</country_code>
@@ -16121,7 +16121,7 @@
 	</record>
 	<record>
 		<mcc>268</mcc>
-		<mnc>93</mnc>
+		<mnc>03</mnc>
 		<iso>pt</iso>
 		<country>Portugal</country>
 		<country_code>351</country_code>
@@ -16129,7 +16129,7 @@
 	</record>
 	<record>
 		<mcc>268</mcc>
-		<mnc>03</mnc>
+		<mnc>93</mnc>
 		<iso>pt</iso>
 		<country>Portugal</country>
 		<country_code>351</country_code>
@@ -16235,7 +16235,7 @@
 	</record>
 	<record>
 		<mcc>427</mcc>
-		<mnc>06</mnc>
+		<mnc>01</mnc>
 		<iso>qa</iso>
 		<country>Qatar</country>
 		<country_code>974</country_code>
@@ -16243,7 +16243,7 @@
 	</record>
 	<record>
 		<mcc>427</mcc>
-		<mnc>01</mnc>
+		<mnc>06</mnc>
 		<iso>qa</iso>
 		<country>Qatar</country>
 		<country_code>974</country_code>
@@ -16883,7 +16883,7 @@
 	</record>
 	<record>
 		<mcc>250</mcc>
-		<mnc>12</mnc>
+		<mnc>20</mnc>
 		<iso>ru</iso>
 		<country>Russia</country>
 		<country_code>79</country_code>
@@ -16891,7 +16891,7 @@
 	</record>
 	<record>
 		<mcc>250</mcc>
-		<mnc>20</mnc>
+		<mnc>12</mnc>
 		<iso>ru</iso>
 		<country>Russia</country>
 		<country_code>79</country_code>
@@ -17011,19 +17011,19 @@
 	</record>
 	<record>
 		<mcc>250</mcc>
-		<mnc>60</mnc>
-		<iso>ru</iso>
-		<country>Russia</country>
-		<country_code>79</country_code>
-		<network>Volna Mobile</network>
-	</record>
-	<record>
-		<mcc>250</mcc>
 		<mnc>77</mnc>
 		<iso>ru</iso>
 		<country>Russia</country>
 		<country_code>79</country_code>
 		<network>Glonass</network>
+	</record>
+	<record>
+		<mcc>250</mcc>
+		<mnc>60</mnc>
+		<iso>ru</iso>
+		<country>Russia</country>
+		<country_code>79</country_code>
+		<network>Volna Mobile</network>
 	</record>
 	<record>
 		<mcc>250</mcc>
@@ -17099,14 +17099,6 @@
 	</record>
 	<record>
 		<mcc>356</mcc>
-		<mnc>070</mnc>
-		<iso>kn</iso>
-		<country>Saint Kitts and Nevis</country>
-		<country_code>1869</country_code>
-		<network>Chippie</network>
-	</record>
-	<record>
-		<mcc>356</mcc>
 		<mnc>70</mnc>
 		<iso>kn</iso>
 		<country>Saint Kitts and Nevis</country>
@@ -17115,7 +17107,15 @@
 	</record>
 	<record>
 		<mcc>356</mcc>
-		<mnc>50</mnc>
+		<mnc>070</mnc>
+		<iso>kn</iso>
+		<country>Saint Kitts and Nevis</country>
+		<country_code>1869</country_code>
+		<network>Chippie</network>
+	</record>
+	<record>
+		<mcc>356</mcc>
+		<mnc>050</mnc>
 		<iso>kn</iso>
 		<country>Saint Kitts and Nevis</country>
 		<country_code>1869</country_code>
@@ -17123,7 +17123,7 @@
 	</record>
 	<record>
 		<mcc>356</mcc>
-		<mnc>050</mnc>
+		<mnc>50</mnc>
 		<iso>kn</iso>
 		<country>Saint Kitts and Nevis</country>
 		<country_code>1869</country_code>
@@ -17147,7 +17147,7 @@
 	</record>
 	<record>
 		<mcc>356</mcc>
-		<mnc>110</mnc>
+		<mnc>11</mnc>
 		<iso>kn</iso>
 		<country>Saint Kitts and Nevis</country>
 		<country_code>1869</country_code>
@@ -17155,7 +17155,7 @@
 	</record>
 	<record>
 		<mcc>356</mcc>
-		<mnc>11</mnc>
+		<mnc>110</mnc>
 		<iso>kn</iso>
 		<country>Saint Kitts and Nevis</country>
 		<country_code>1869</country_code>
@@ -17219,7 +17219,7 @@
 	</record>
 	<record>
 		<mcc>308</mcc>
-		<mnc>03</mnc>
+		<mnc>01</mnc>
 		<iso>pm</iso>
 		<country>Saint Pierre and Miquelon</country>
 		<country_code>508</country_code>
@@ -17227,7 +17227,7 @@
 	</record>
 	<record>
 		<mcc>308</mcc>
-		<mnc>01</mnc>
+		<mnc>03</mnc>
 		<iso>pm</iso>
 		<country>Saint Pierre and Miquelon</country>
 		<country_code>508</country_code>
@@ -17843,7 +17843,7 @@
 	</record>
 	<record>
 		<mcc>525</mcc>
-		<mnc>08</mnc>
+		<mnc>05</mnc>
 		<iso>sg</iso>
 		<country>Singapore</country>
 		<country_code>65</country_code>
@@ -17851,7 +17851,7 @@
 	</record>
 	<record>
 		<mcc>525</mcc>
-		<mnc>05</mnc>
+		<mnc>08</mnc>
 		<iso>sg</iso>
 		<country>Singapore</country>
 		<country_code>65</country_code>
@@ -17907,7 +17907,7 @@
 	</record>
 	<record>
 		<mcc>231</mcc>
-		<mnc>05</mnc>
+		<mnc>07</mnc>
 		<iso>sk</iso>
 		<country>Slovakia</country>
 		<country_code>421</country_code>
@@ -17915,7 +17915,7 @@
 	</record>
 	<record>
 		<mcc>231</mcc>
-		<mnc>07</mnc>
+		<mnc>05</mnc>
 		<iso>sk</iso>
 		<country>Slovakia</country>
 		<country_code>421</country_code>
@@ -17939,7 +17939,7 @@
 	</record>
 	<record>
 		<mcc>231</mcc>
-		<mnc>02</mnc>
+		<mnc>04</mnc>
 		<iso>sk</iso>
 		<country>Slovakia</country>
 		<country_code>421</country_code>
@@ -17955,7 +17955,7 @@
 	</record>
 	<record>
 		<mcc>231</mcc>
-		<mnc>04</mnc>
+		<mnc>02</mnc>
 		<iso>sk</iso>
 		<country>Slovakia</country>
 		<country_code>421</country_code>
@@ -18283,6 +18283,14 @@
 	</record>
 	<record>
 		<mcc>655</mcc>
+		<mnc>12</mnc>
+		<iso>za</iso>
+		<country>South Africa</country>
+		<country_code>27</country_code>
+		<network>MTN</network>
+	</record>
+	<record>
+		<mcc>655</mcc>
 		<mnc>10</mnc>
 		<iso>za</iso>
 		<country>South Africa</country>
@@ -18291,11 +18299,11 @@
 	</record>
 	<record>
 		<mcc>655</mcc>
-		<mnc>12</mnc>
+		<mnc>19</mnc>
 		<iso>za</iso>
 		<country>South Africa</country>
 		<country_code>27</country_code>
-		<network>MTN</network>
+		<network>Rain</network>
 	</record>
 	<record>
 		<mcc>655</mcc>
@@ -18315,14 +18323,6 @@
 	</record>
 	<record>
 		<mcc>655</mcc>
-		<mnc>19</mnc>
-		<iso>za</iso>
-		<country>South Africa</country>
-		<country_code>27</country_code>
-		<network>Rain</network>
-	</record>
-	<record>
-		<mcc>655</mcc>
 		<mnc>73</mnc>
 		<iso>za</iso>
 		<country>South Africa</country>
@@ -18331,7 +18331,7 @@
 	</record>
 	<record>
 		<mcc>655</mcc>
-		<mnc>02</mnc>
+		<mnc>05</mnc>
 		<iso>za</iso>
 		<country>South Africa</country>
 		<country_code>27</country_code>
@@ -18339,7 +18339,7 @@
 	</record>
 	<record>
 		<mcc>655</mcc>
-		<mnc>05</mnc>
+		<mnc>02</mnc>
 		<iso>za</iso>
 		<country>South Africa</country>
 		<country_code>27</country_code>
@@ -18395,7 +18395,7 @@
 	</record>
 	<record>
 		<mcc>450</mcc>
-		<mnc>02</mnc>
+		<mnc>04</mnc>
 		<iso>kr</iso>
 		<country>South Korea</country>
 		<country_code>82</country_code>
@@ -18403,7 +18403,7 @@
 	</record>
 	<record>
 		<mcc>450</mcc>
-		<mnc>04</mnc>
+		<mnc>02</mnc>
 		<iso>kr</iso>
 		<country>South Korea</country>
 		<country_code>82</country_code>
@@ -18662,6 +18662,14 @@
 	</record>
 	<record>
 		<mcc>214</mcc>
+		<mnc>38</mnc>
+		<iso>es</iso>
+		<country>Spain</country>
+		<country_code>34</country_code>
+		<network>Movistar</network>
+	</record>
+	<record>
+		<mcc>214</mcc>
 		<mnc>07</mnc>
 		<iso>es</iso>
 		<country>Spain</country>
@@ -18671,14 +18679,6 @@
 	<record>
 		<mcc>214</mcc>
 		<mnc>05</mnc>
-		<iso>es</iso>
-		<country>Spain</country>
-		<country_code>34</country_code>
-		<network>Movistar</network>
-	</record>
-	<record>
-		<mcc>214</mcc>
-		<mnc>38</mnc>
 		<iso>es</iso>
 		<country>Spain</country>
 		<country_code>34</country_code>
@@ -18718,14 +18718,6 @@
 	</record>
 	<record>
 		<mcc>214</mcc>
-		<mnc>03</mnc>
-		<iso>es</iso>
-		<country>Spain</country>
-		<country_code>34</country_code>
-		<network>Orange</network>
-	</record>
-	<record>
-		<mcc>214</mcc>
 		<mnc>09</mnc>
 		<iso>es</iso>
 		<country>Spain</country>
@@ -18735,6 +18727,14 @@
 	<record>
 		<mcc>214</mcc>
 		<mnc>21</mnc>
+		<iso>es</iso>
+		<country>Spain</country>
+		<country_code>34</country_code>
+		<network>Orange</network>
+	</record>
+	<record>
+		<mcc>214</mcc>
+		<mnc>03</mnc>
 		<iso>es</iso>
 		<country>Spain</country>
 		<country_code>34</country_code>
@@ -18862,14 +18862,6 @@
 	</record>
 	<record>
 		<mcc>214</mcc>
-		<mnc>06</mnc>
-		<iso>es</iso>
-		<country>Spain</country>
-		<country_code>34</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>214</mcc>
 		<mnc>01</mnc>
 		<iso>es</iso>
 		<country>Spain</country>
@@ -18886,19 +18878,19 @@
 	</record>
 	<record>
 		<mcc>214</mcc>
+		<mnc>06</mnc>
+		<iso>es</iso>
+		<country>Spain</country>
+		<country_code>34</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>214</mcc>
 		<mnc>299</mnc>
 		<iso>es</iso>
 		<country>Spain</country>
 		<country_code>34</country_code>
 		<network>Vodafone Enabler</network>
-	</record>
-	<record>
-		<mcc>214</mcc>
-		<mnc>04</mnc>
-		<iso>es</iso>
-		<country>Spain</country>
-		<country_code>34</country_code>
-		<network>Yoigo</network>
 	</record>
 	<record>
 		<mcc>214</mcc>
@@ -18919,6 +18911,14 @@
 	<record>
 		<mcc>214</mcc>
 		<mnc>29</mnc>
+		<iso>es</iso>
+		<country>Spain</country>
+		<country_code>34</country_code>
+		<network>Yoigo</network>
+	</record>
+	<record>
+		<mcc>214</mcc>
+		<mnc>04</mnc>
 		<iso>es</iso>
 		<country>Spain</country>
 		<country_code>34</country_code>
@@ -19739,6 +19739,14 @@
 	</record>
 	<record>
 		<mcc>240</mcc>
+		<mnc>14</mnc>
+		<iso>se</iso>
+		<country>Sweden</country>
+		<country_code>46</country_code>
+		<network>Tele2</network>
+	</record>
+	<record>
+		<mcc>240</mcc>
 		<mnc>05</mnc>
 		<iso>se</iso>
 		<country>Sweden</country>
@@ -19748,14 +19756,6 @@
 	<record>
 		<mcc>240</mcc>
 		<mnc>07</mnc>
-		<iso>se</iso>
-		<country>Sweden</country>
-		<country_code>46</country_code>
-		<network>Tele2</network>
-	</record>
-	<record>
-		<mcc>240</mcc>
-		<mnc>14</mnc>
 		<iso>se</iso>
 		<country>Sweden</country>
 		<country_code>46</country_code>
@@ -19803,7 +19803,7 @@
 	</record>
 	<record>
 		<mcc>240</mcc>
-		<mnc>08</mnc>
+		<mnc>04</mnc>
 		<iso>se</iso>
 		<country>Sweden</country>
 		<country_code>46</country_code>
@@ -19811,7 +19811,7 @@
 	</record>
 	<record>
 		<mcc>240</mcc>
-		<mnc>04</mnc>
+		<mnc>08</mnc>
 		<iso>se</iso>
 		<country>Sweden</country>
 		<country_code>46</country_code>
@@ -19995,7 +19995,7 @@
 	</record>
 	<record>
 		<mcc>228</mcc>
-		<mnc>09</mnc>
+		<mnc>05</mnc>
 		<iso>ch</iso>
 		<country>Switzerland</country>
 		<country_code>41</country_code>
@@ -20003,7 +20003,7 @@
 	</record>
 	<record>
 		<mcc>228</mcc>
-		<mnc>05</mnc>
+		<mnc>09</mnc>
 		<iso>ch</iso>
 		<country>Switzerland</country>
 		<country_code>41</country_code>
@@ -20091,7 +20091,7 @@
 	</record>
 	<record>
 		<mcc>228</mcc>
-		<mnc>02</mnc>
+		<mnc>12</mnc>
 		<iso>ch</iso>
 		<country>Switzerland</country>
 		<country_code>41</country_code>
@@ -20099,7 +20099,7 @@
 	</record>
 	<record>
 		<mcc>228</mcc>
-		<mnc>08</mnc>
+		<mnc>02</mnc>
 		<iso>ch</iso>
 		<country>Switzerland</country>
 		<country_code>41</country_code>
@@ -20115,7 +20115,7 @@
 	</record>
 	<record>
 		<mcc>228</mcc>
-		<mnc>12</mnc>
+		<mnc>08</mnc>
 		<iso>ch</iso>
 		<country>Switzerland</country>
 		<country_code>41</country_code>
@@ -20235,6 +20235,14 @@
 	</record>
 	<record>
 		<mcc>466</mcc>
+		<mnc>88</mnc>
+		<iso>tw</iso>
+		<country>Taiwan</country>
+		<country_code>886</country_code>
+		<network>Far EasTone</network>
+	</record>
+	<record>
+		<mcc>466</mcc>
 		<mnc>01</mnc>
 		<iso>tw</iso>
 		<country>Taiwan</country>
@@ -20244,14 +20252,6 @@
 	<record>
 		<mcc>466</mcc>
 		<mnc>03</mnc>
-		<iso>tw</iso>
-		<country>Taiwan</country>
-		<country_code>886</country_code>
-		<network>Far EasTone</network>
-	</record>
-	<record>
-		<mcc>466</mcc>
-		<mnc>88</mnc>
 		<iso>tw</iso>
 		<country>Taiwan</country>
 		<country_code>886</country_code>
@@ -20563,7 +20563,7 @@
 	</record>
 	<record>
 		<mcc>539</mcc>
-		<mnc>43</mnc>
+		<mnc>88</mnc>
 		<iso>to</iso>
 		<country>Tonga</country>
 		<country_code>676</country_code>
@@ -20571,7 +20571,7 @@
 	</record>
 	<record>
 		<mcc>539</mcc>
-		<mnc>88</mnc>
+		<mnc>43</mnc>
 		<iso>to</iso>
 		<country>Tonga</country>
 		<country_code>676</country_code>
@@ -20971,7 +20971,7 @@
 	</record>
 	<record>
 		<mcc>641</mcc>
-		<mnc>01</mnc>
+		<mnc>22</mnc>
 		<iso>ug</iso>
 		<country>Uganda</country>
 		<country_code>256</country_code>
@@ -20979,7 +20979,7 @@
 	</record>
 	<record>
 		<mcc>641</mcc>
-		<mnc>22</mnc>
+		<mnc>01</mnc>
 		<iso>ug</iso>
 		<country>Uganda</country>
 		<country_code>256</country_code>
@@ -21067,7 +21067,7 @@
 	</record>
 	<record>
 		<mcc>255</mcc>
-		<mnc>02</mnc>
+		<mnc>03</mnc>
 		<iso>ua</iso>
 		<country>Ukraine</country>
 		<country_code>380</country_code>
@@ -21075,7 +21075,7 @@
 	</record>
 	<record>
 		<mcc>255</mcc>
-		<mnc>03</mnc>
+		<mnc>02</mnc>
 		<iso>ua</iso>
 		<country>Ukraine</country>
 		<country_code>380</country_code>
@@ -21499,14 +21499,6 @@
 	</record>
 	<record>
 		<mcc>234</mcc>
-		<mnc>02</mnc>
-		<iso>gb</iso>
-		<country>United Kingdom</country>
-		<country_code>44</country_code>
-		<network>O2</network>
-	</record>
-	<record>
-		<mcc>234</mcc>
 		<mnc>11</mnc>
 		<iso>gb</iso>
 		<country>United Kingdom</country>
@@ -21516,6 +21508,14 @@
 	<record>
 		<mcc>234</mcc>
 		<mnc>10</mnc>
+		<iso>gb</iso>
+		<country>United Kingdom</country>
+		<country_code>44</country_code>
+		<network>O2</network>
+	</record>
+	<record>
+		<mcc>234</mcc>
+		<mnc>02</mnc>
 		<iso>gb</iso>
 		<country>United Kingdom</country>
 		<country_code>44</country_code>
@@ -21571,23 +21571,7 @@
 	</record>
 	<record>
 		<mcc>234</mcc>
-		<mnc>92</mnc>
-		<iso>gb</iso>
-		<country>United Kingdom</country>
-		<country_code>44</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>234</mcc>
-		<mnc>77</mnc>
-		<iso>gb</iso>
-		<country>United Kingdom</country>
-		<country_code>44</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>234</mcc>
-		<mnc>89</mnc>
+		<mnc>07</mnc>
 		<iso>gb</iso>
 		<country>United Kingdom</country>
 		<country_code>44</country_code>
@@ -21603,14 +21587,6 @@
 	</record>
 	<record>
 		<mcc>234</mcc>
-		<mnc>07</mnc>
-		<iso>gb</iso>
-		<country>United Kingdom</country>
-		<country_code>44</country_code>
-		<network>Vodafone</network>
-	</record>
-	<record>
-		<mcc>234</mcc>
 		<mnc>15</mnc>
 		<iso>gb</iso>
 		<country>United Kingdom</country>
@@ -21618,6 +21594,30 @@
 		<network>Vodafone</network>
 	</record>
 	<record>
+		<mcc>234</mcc>
+		<mnc>89</mnc>
+		<iso>gb</iso>
+		<country>United Kingdom</country>
+		<country_code>44</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>234</mcc>
+		<mnc>92</mnc>
+		<iso>gb</iso>
+		<country>United Kingdom</country>
+		<country_code>44</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
+		<mcc>234</mcc>
+		<mnc>77</mnc>
+		<iso>gb</iso>
+		<country>United Kingdom</country>
+		<country_code>44</country_code>
+		<network>Vodafone</network>
+	</record>
+	<record>
 		<mcc>312</mcc>
 		<mnc>130</mnc>
 		<iso>us</iso>
@@ -21650,22 +21650,6 @@
 		<network>Appalachian Wireless</network>
 	</record>
 	<record>
-		<mcc>312</mcc>
-		<mnc>760</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>ASTAC Cellular</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>710</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>ASTAC Cellular</network>
-	</record>
-	<record>
 		<mcc>310</mcc>
 		<mnc>710</mnc>
 		<iso>us</iso>
@@ -21683,7 +21667,23 @@
 	</record>
 	<record>
 		<mcc>312</mcc>
-		<mnc>070</mnc>
+		<mnc>760</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>ASTAC Cellular</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>710</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>ASTAC Cellular</network>
+	</record>
+	<record>
+		<mcc>313</mcc>
+		<mnc>380</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21691,7 +21691,87 @@
 	</record>
 	<record>
 		<mcc>311</mcc>
-		<mnc>210</mnc>
+		<mnc>180</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>313</mcc>
+		<mnc>016</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>180</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>170</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>670</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>313</mcc>
+		<mnc>150</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>080</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>410</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>410</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>080</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>070</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21706,6 +21786,14 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
+		<mcc>311</mcc>
+		<mnc>210</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
 		<mcc>313</mcc>
 		<mnc>030</mnc>
 		<iso>us</iso>
@@ -21714,8 +21802,8 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>670</mnc>
+		<mcc>313</mcc>
+		<mnc>280</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21730,32 +21818,8 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>090</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
 		<mcc>311</mcc>
 		<mnc>680</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>030</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>090</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21770,6 +21834,22 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
+		<mcc>311</mcc>
+		<mnc>090</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>670</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
 		<mcc>312</mcc>
 		<mnc>670</mnc>
 		<iso>us</iso>
@@ -21779,7 +21859,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>210</mnc>
+		<mnc>090</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21794,16 +21874,16 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
-		<mcc>311</mcc>
-		<mnc>280</mnc>
+		<mcc>313</mcc>
+		<mnc>670</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
-		<mcc>313</mcc>
-		<mnc>670</mnc>
+		<mcc>311</mcc>
+		<mnc>280</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21827,7 +21907,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>680</mnc>
+		<mnc>210</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21842,14 +21922,6 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>150</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
 		<mcc>311</mcc>
 		<mnc>950</mnc>
 		<iso>us</iso>
@@ -21858,6 +21930,14 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
+		<mcc>313</mcc>
+		<mnc>180</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
 		<mcc>311</mcc>
 		<mnc>150</mnc>
 		<iso>us</iso>
@@ -21866,8 +21946,8 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
-		<mcc>313</mcc>
-		<mnc>180</mnc>
+		<mcc>310</mcc>
+		<mnc>680</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21883,7 +21963,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>280</mnc>
+		<mnc>150</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21892,6 +21972,14 @@
 	<record>
 		<mcc>312</mcc>
 		<mnc>090</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>313</mcc>
+		<mnc>680</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21907,7 +21995,7 @@
 	</record>
 	<record>
 		<mcc>313</mcc>
-		<mnc>680</mnc>
+		<mnc>080</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21923,15 +22011,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>950</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>313</mcc>
-		<mnc>080</mnc>
+		<mnc>280</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21946,24 +22026,8 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>170</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
 		<mcc>312</mcc>
 		<mnc>016</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>170</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21978,6 +22042,22 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
+		<mcc>311</mcc>
+		<mnc>170</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>950</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
 		<mcc>312</mcc>
 		<mnc>950</mnc>
 		<iso>us</iso>
@@ -21987,7 +22067,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>380</mnc>
+		<mnc>170</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -21996,22 +22076,6 @@
 	<record>
 		<mcc>312</mcc>
 		<mnc>150</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>070</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>410</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22027,7 +22091,15 @@
 	</record>
 	<record>
 		<mcc>311</mcc>
-		<mnc>070</mnc>
+		<mnc>410</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>030</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22042,6 +22114,30 @@
 		<network>AT&amp;T Mobility</network>
 	</record>
 	<record>
+		<mcc>310</mcc>
+		<mnc>016</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>070</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>380</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>AT&amp;T Mobility</network>
+	</record>
+	<record>
 		<mcc>312</mcc>
 		<mnc>380</mnc>
 		<iso>us</iso>
@@ -22051,7 +22147,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>180</mnc>
+		<mnc>070</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22060,102 +22156,6 @@
 	<record>
 		<mcc>312</mcc>
 		<mnc>030</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>180</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>313</mcc>
-		<mnc>380</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>313</mcc>
-		<mnc>016</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>410</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>170</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>080</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>670</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>016</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>080</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>313</mcc>
-		<mnc>150</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>410</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>AT&amp;T Mobility</network>
-	</record>
-	<record>
-		<mcc>313</mcc>
-		<mnc>280</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22226,6 +22226,14 @@
 		<network>Fix Line</network>
 	</record>
 	<record>
+		<mcc>310</mcc>
+		<mnc>430</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>GCI Wireless</network>
+	</record>
+	<record>
 		<mcc>311</mcc>
 		<mnc>430</mnc>
 		<iso>us</iso>
@@ -22242,22 +22250,6 @@
 		<network>GCI Wireless</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>430</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>GCI Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>340</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Limitless</network>
-	</record>
-	<record>
 		<mcc>311</mcc>
 		<mnc>690</mnc>
 		<iso>us</iso>
@@ -22296,6 +22288,38 @@
 		<country>United States of America</country>
 		<country_code>1</country_code>
 		<network>Limitless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>340</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Limitless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>299</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Northstar Technology</network>
+	</record>
+	<record>
+		<mcc>315</mcc>
+		<mnc>299</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Northstar Technology</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>299</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Northstar Technology</network>
 	</record>
 	<record>
 		<mcc>316</mcc>
@@ -22331,30 +22355,6 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>299</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Northstar Technology</network>
-	</record>
-	<record>
-		<mcc>315</mcc>
-		<mnc>299</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Northstar Technology</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>299</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Northstar Technology</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
 		<mnc>540</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
@@ -22362,8 +22362,8 @@
 		<network>OWTC</network>
 	</record>
 	<record>
-		<mcc>313</mcc>
-		<mnc>280</mnc>
+		<mcc>310</mcc>
+		<mnc>360</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22372,14 +22372,6 @@
 	<record>
 		<mcc>313</mcc>
 		<mnc>360</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Pioneer Cellular</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>570</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22402,16 +22394,16 @@
 		<network>Pioneer Cellular</network>
 	</record>
 	<record>
-		<mcc>311</mcc>
-		<mnc>360</mnc>
+		<mcc>310</mcc>
+		<mnc>570</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
 		<network>Pioneer Cellular</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>280</mnc>
+		<mcc>311</mcc>
+		<mnc>360</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22427,11 +22419,131 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>360</mnc>
+		<mnc>280</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
 		<network>Pioneer Cellular</network>
+	</record>
+	<record>
+		<mcc>313</mcc>
+		<mnc>280</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Pioneer Cellular</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>250</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>120</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>316</mcc>
+		<mnc>530</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>882</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>316</mcc>
+		<mnc>160</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>870</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>270</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>010</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>660</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>250</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>316</mcc>
+		<mnc>880</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>190</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>316</mcc>
+		<mnc>250</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>800</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
 	</record>
 	<record>
 		<mcc>312</mcc>
@@ -22443,7 +22555,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>260</mnc>
+		<mnc>530</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22460,6 +22572,14 @@
 	<record>
 		<mcc>312</mcc>
 		<mnc>260</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>010</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22491,7 +22611,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>660</mnc>
+		<mnc>880</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22500,6 +22620,14 @@
 	<record>
 		<mcc>311</mcc>
 		<mnc>311</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>120</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22515,15 +22643,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>200</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>120</mnc>
+		<mnc>260</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22554,14 +22674,6 @@
 		<network>T-Mobile</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>882</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
 		<mcc>311</mcc>
 		<mnc>830</mnc>
 		<iso>us</iso>
@@ -22579,7 +22691,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>270</mnc>
+		<mnc>660</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22603,7 +22715,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>190</mnc>
+		<mnc>200</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22635,7 +22747,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>800</mnc>
+		<mnc>882</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22644,22 +22756,6 @@
 	<record>
 		<mcc>311</mcc>
 		<mnc>490</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>830</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>230</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22675,7 +22771,15 @@
 	</record>
 	<record>
 		<mcc>312</mcc>
-		<mnc>230</mnc>
+		<mnc>830</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>270</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22684,6 +22788,22 @@
 	<record>
 		<mcc>316</mcc>
 		<mnc>940</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>230</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>190</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22692,14 +22812,6 @@
 	<record>
 		<mcc>316</mcc>
 		<mnc>270</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>940</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22716,6 +22828,86 @@
 	<record>
 		<mcc>316</mcc>
 		<mnc>010</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>800</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>250</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>490</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>230</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>316</mcc>
+		<mnc>830</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>120</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>316</mcc>
+		<mnc>230</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>940</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>530</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>870</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22731,86 +22923,6 @@
 	</record>
 	<record>
 		<mcc>311</mcc>
-		<mnc>250</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>490</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>160</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>316</mcc>
-		<mnc>830</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>120</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>316</mcc>
-		<mnc>230</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>830</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>530</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>870</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>240</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
 		<mnc>190</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
@@ -22820,6 +22932,14 @@
 	<record>
 		<mcc>312</mcc>
 		<mnc>240</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>T-Mobile</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>160</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22851,7 +22971,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>490</mnc>
+		<mnc>830</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22875,7 +22995,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>120</mnc>
+		<mnc>240</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22906,14 +23026,6 @@
 		<network>T-Mobile</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>870</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
 		<mcc>311</mcc>
 		<mnc>660</mnc>
 		<iso>us</iso>
@@ -22931,7 +23043,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>250</mnc>
+		<mnc>490</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -22940,118 +23052,6 @@
 	<record>
 		<mcc>311</mcc>
 		<mnc>200</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>250</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>316</mcc>
-		<mnc>530</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>882</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>316</mcc>
-		<mnc>160</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>530</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>270</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>660</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>010</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>010</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>316</mcc>
-		<mnc>880</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>190</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>316</mcc>
-		<mnc>250</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>880</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>T-Mobile</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>800</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23067,7 +23067,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>598</mnc>
+		<mnc>013</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23075,15 +23075,7 @@
 	</record>
 	<record>
 		<mcc>311</mcc>
-		<mnc>892</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>278</mnc>
+		<mnc>274</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23091,87 +23083,7 @@
 	</record>
 	<record>
 		<mcc>312</mcc>
-		<mnc>593</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>284</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>350</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>275</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>281</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>489</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>595</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>110</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>910</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>272</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>480</mnc>
+		<mnc>280</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23186,16 +23098,8 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>311</mcc>
-		<mnc>486</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
 		<mcc>310</mcc>
-		<mnc>891</mnc>
+		<mnc>488</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23203,7 +23107,7 @@
 	</record>
 	<record>
 		<mcc>311</mcc>
-		<mnc>897</mnc>
+		<mnc>594</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23211,7 +23115,15 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>283</mnc>
+		<mnc>899</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>271</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23226,8 +23138,24 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
+		<mcc>310</mcc>
+		<mnc>390</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
 		<mcc>311</mcc>
-		<mnc>289</mnc>
+		<mnc>485</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>288</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23235,7 +23163,7 @@
 	</record>
 	<record>
 		<mcc>312</mcc>
-		<mnc>483</mnc>
+		<mnc>482</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23243,7 +23171,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>594</mnc>
+		<mnc>890</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23251,15 +23179,7 @@
 	</record>
 	<record>
 		<mcc>311</mcc>
-		<mnc>770</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>274</mnc>
+		<mnc>896</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23274,32 +23194,8 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>311</mcc>
-		<mnc>280</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>286</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>271</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>277</mnc>
+		<mcc>310</mcc>
+		<mnc>282</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23307,7 +23203,23 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>485</mnc>
+		<mnc>273</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>279</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>285</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23322,16 +23234,16 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>311</mcc>
-		<mnc>591</mnc>
+		<mcc>310</mcc>
+		<mnc>593</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>896</mnc>
+		<mcc>311</mcc>
+		<mnc>599</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23339,15 +23251,7 @@
 	</record>
 	<record>
 		<mcc>312</mcc>
-		<mnc>013</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>288</mnc>
+		<mnc>276</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23362,16 +23266,8 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>311</mcc>
-		<mnc>482</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
 		<mcc>310</mcc>
-		<mnc>599</mnc>
+		<mnc>484</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23379,7 +23275,7 @@
 	</record>
 	<record>
 		<mcc>311</mcc>
-		<mnc>893</mnc>
+		<mnc>590</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23395,7 +23291,15 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>279</mnc>
+		<mnc>895</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>012</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23404,6 +23308,326 @@
 	<record>
 		<mcc>312</mcc>
 		<mnc>594</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>287</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>481</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>278</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>284</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>350</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>598</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>892</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>110</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>275</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>281</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>896</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>489</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>595</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>910</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>272</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>599</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>480</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>486</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>289</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>483</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>891</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>897</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>590</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>283</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>274</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>280</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>286</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>594</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>770</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>271</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>277</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>892</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>485</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>591</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>896</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>013</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>595</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>288</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>482</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>279</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23426,8 +23650,48 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
+		<mcc>310</mcc>
+		<mnc>599</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>893</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>486</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>276</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
 		<mcc>312</mcc>
 		<mnc>282</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>897</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23451,14 +23715,6 @@
 	</record>
 	<record>
 		<mcc>311</mcc>
-		<mnc>276</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
 		<mnc>012</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
@@ -23474,6 +23730,14 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
+		<mcc>312</mcc>
+		<mnc>770</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
 		<mcc>310</mcc>
 		<mnc>481</mnc>
 		<iso>us</iso>
@@ -23482,16 +23746,16 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>312</mcc>
-		<mnc>896</mnc>
+		<mcc>311</mcc>
+		<mnc>487</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>311</mcc>
-		<mnc>487</mnc>
+		<mcc>312</mcc>
+		<mnc>484</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23514,16 +23778,16 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>284</mnc>
+		<mcc>312</mcc>
+		<mnc>591</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>312</mcc>
-		<mnc>599</mnc>
+		<mcc>310</mcc>
+		<mnc>284</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23538,40 +23802,8 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>312</mcc>
-		<mnc>484</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>595</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>820</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
 		<mcc>310</mcc>
 		<mnc>275</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>590</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23594,6 +23826,22 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
+		<mcc>310</mcc>
+		<mnc>595</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>820</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
 		<mcc>311</mcc>
 		<mnc>272</mnc>
 		<iso>us</iso>
@@ -23604,6 +23852,14 @@
 	<record>
 		<mcc>312</mcc>
 		<mnc>278</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>893</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23642,6 +23898,14 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
+		<mcc>312</mcc>
+		<mnc>596</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
 		<mcc>310</mcc>
 		<mnc>289</mnc>
 		<iso>us</iso>
@@ -23650,48 +23914,8 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>312</mcc>
-		<mnc>892</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
 		<mcc>311</mcc>
 		<mnc>483</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>770</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>894</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>280</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>595</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23714,8 +23938,64 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
+		<mcc>310</mcc>
+		<mnc>770</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>894</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>487</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>280</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>271</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>277</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
 		<mcc>312</mcc>
 		<mnc>283</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>898</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23738,30 +24018,6 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>271</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>486</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>277</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
 		<mcc>311</mcc>
 		<mnc>013</mnc>
 		<iso>us</iso>
@@ -23778,6 +24034,14 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
+		<mcc>312</mcc>
+		<mnc>820</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
 		<mcc>310</mcc>
 		<mnc>482</mnc>
 		<iso>us</iso>
@@ -23786,16 +24050,16 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>312</mcc>
-		<mnc>897</mnc>
+		<mcc>311</mcc>
+		<mnc>488</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>311</mcc>
-		<mnc>488</mnc>
+		<mcc>312</mcc>
+		<mnc>485</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23818,16 +24082,16 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>285</mnc>
+		<mcc>312</mcc>
+		<mnc>592</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>312</mcc>
-		<mnc>770</mnc>
+		<mcc>310</mcc>
+		<mnc>285</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23842,8 +24106,24 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
+		<mcc>310</mcc>
+		<mnc>276</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>282</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
 		<mcc>312</mcc>
-		<mnc>485</mnc>
+		<mnc>288</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23867,31 +24147,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>276</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>591</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>282</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>288</mnc>
+		<mnc>012</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23908,6 +24164,14 @@
 	<record>
 		<mcc>312</mcc>
 		<mnc>279</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>894</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23931,15 +24195,15 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>012</mnc>
+		<mnc>898</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>898</mnc>
+		<mcc>312</mcc>
+		<mnc>597</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -23954,48 +24218,8 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>312</mcc>
-		<mnc>893</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
 		<mcc>311</mcc>
 		<mnc>484</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>820</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>895</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>281</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>596</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -24018,8 +24242,64 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
+		<mcc>310</mcc>
+		<mnc>820</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>895</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>488</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>281</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>272</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>311</mcc>
+		<mnc>278</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
 		<mcc>312</mcc>
 		<mnc>284</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>899</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -24042,30 +24322,6 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>272</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>487</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>278</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
 		<mcc>311</mcc>
 		<mnc>110</mnc>
 		<iso>us</iso>
@@ -24082,16 +24338,16 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>310</mcc>
-		<mnc>483</mnc>
+		<mcc>312</mcc>
+		<mnc>890</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>312</mcc>
-		<mnc>898</mnc>
+		<mcc>310</mcc>
+		<mnc>483</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -24122,6 +24378,14 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
+		<mcc>312</mcc>
+		<mnc>593</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
 		<mcc>310</mcc>
 		<mnc>286</mnc>
 		<iso>us</iso>
@@ -24130,8 +24394,16 @@
 		<network>Verizon Wireless</network>
 	</record>
 	<record>
-		<mcc>312</mcc>
-		<mnc>820</mnc>
+		<mcc>311</mcc>
+		<mnc>480</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>310</mcc>
+		<mnc>277</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -24139,7 +24411,15 @@
 	</record>
 	<record>
 		<mcc>311</mcc>
-		<mnc>480</mnc>
+		<mnc>283</mnc>
+		<iso>us</iso>
+		<country>United States of America</country>
+		<country_code>1</country_code>
+		<network>Verizon Wireless</network>
+	</record>
+	<record>
+		<mcc>312</mcc>
+		<mnc>289</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -24163,287 +24443,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>277</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>592</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>283</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>289</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>274</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>280</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>488</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>594</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>013</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>899</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>271</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>390</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>894</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>485</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>890</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>896</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>282</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>597</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>288</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>482</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>593</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>599</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>273</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>488</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>279</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>285</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>276</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>484</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>899</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>590</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>895</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>012</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>287</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>312</mcc>
-		<mnc>890</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>311</mcc>
-		<mnc>481</mnc>
-		<iso>us</iso>
-		<country>United States of America</country>
-		<country_code>1</country_code>
-		<network>Verizon Wireless</network>
-	</record>
-	<record>
-		<mcc>310</mcc>
-		<mnc>740</mnc>
+		<mnc>450</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -24451,7 +24451,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>450</mnc>
+		<mnc>740</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
