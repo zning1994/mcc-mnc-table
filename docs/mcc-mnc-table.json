@@ -2801,7 +2801,7 @@
   },
   {
     "mcc": 302,
-    "mnc": 22,
+    "mnc": 760,
     "iso": "ca",
     "country": "Canada",
     "country_code": 1,
@@ -2809,7 +2809,7 @@
   },
   {
     "mcc": 302,
-    "mnc": 760,
+    "mnc": 22,
     "iso": "ca",
     "country": "Canada",
     "country_code": 1,
@@ -5385,7 +5385,7 @@
   },
   {
     "mcc": 244,
-    "mnc": 12,
+    "mnc": 3,
     "iso": "fi",
     "country": "Finland",
     "country_code": 358,
@@ -5393,7 +5393,7 @@
   },
   {
     "mcc": 244,
-    "mnc": 3,
+    "mnc": 12,
     "iso": "fi",
     "country": "Finland",
     "country_code": 358,
@@ -9768,16 +9768,16 @@
     "network": "Vodafone"
   },
   {
-    "mcc": 405,
-    "mnc": 88,
+    "mcc": 404,
+    "mnc": 11,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Vodafone"
   },
   {
-    "mcc": 404,
-    "mnc": 11,
+    "mcc": 405,
+    "mnc": 88,
     "iso": "in",
     "country": "India",
     "country_code": 91,

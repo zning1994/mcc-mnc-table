@@ -2802,7 +2802,7 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>22</mnc>
+		<mnc>760</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
@@ -2810,7 +2810,7 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>760</mnc>
+		<mnc>22</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
@@ -5386,7 +5386,7 @@
 	</record>
 	<record>
 		<mcc>244</mcc>
-		<mnc>12</mnc>
+		<mnc>03</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
 		<country_code>358</country_code>
@@ -5394,7 +5394,7 @@
 	</record>
 	<record>
 		<mcc>244</mcc>
-		<mnc>03</mnc>
+		<mnc>12</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
 		<country_code>358</country_code>
@@ -9769,16 +9769,16 @@
 		<network>Vodafone</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>88</mnc>
+		<mcc>404</mcc>
+		<mnc>11</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
 		<network>Vodafone</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>11</mnc>
+		<mcc>405</mcc>
+		<mnc>88</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
