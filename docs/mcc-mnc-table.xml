@@ -1642,7 +1642,7 @@
 	</record>
 	<record>
 		<mcc>702</mcc>
-		<mnc>099</mnc>
+		<mnc>69</mnc>
 		<iso>bz</iso>
 		<country>Belize</country>
 		<country_code>501</country_code>
@@ -1650,7 +1650,7 @@
 	</record>
 	<record>
 		<mcc>702</mcc>
-		<mnc>69</mnc>
+		<mnc>099</mnc>
 		<iso>bz</iso>
 		<country>Belize</country>
 		<country_code>501</country_code>
@@ -2898,7 +2898,7 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>500</mnc>
+		<mnc>520</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
@@ -2906,7 +2906,7 @@
 	</record>
 	<record>
 		<mcc>302</mcc>
-		<mnc>520</mnc>
+		<mnc>500</mnc>
 		<iso>ca</iso>
 		<country>Canada</country>
 		<country_code>1</country_code>
@@ -5386,7 +5386,7 @@
 	</record>
 	<record>
 		<mcc>244</mcc>
-		<mnc>12</mnc>
+		<mnc>03</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
 		<country_code>358</country_code>
@@ -5394,7 +5394,7 @@
 	</record>
 	<record>
 		<mcc>244</mcc>
-		<mnc>03</mnc>
+		<mnc>12</mnc>
 		<iso>fi</iso>
 		<country>Finland</country>
 		<country_code>358</country_code>
@@ -5946,7 +5946,7 @@
 	</record>
 	<record>
 		<mcc>208</mcc>
-		<mnc>16</mnc>
+		<mnc>36</mnc>
 		<iso>fr</iso>
 		<country>France</country>
 		<country_code>33</country_code>
@@ -5954,7 +5954,7 @@
 	</record>
 	<record>
 		<mcc>208</mcc>
-		<mnc>36</mnc>
+		<mnc>16</mnc>
 		<iso>fr</iso>
 		<country>France</country>
 		<country_code>33</country_code>
@@ -8122,7 +8122,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>25</mnc>
+		<mnc>35</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8130,7 +8130,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>35</mnc>
+		<mnc>25</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8234,7 +8234,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>91</mnc>
+		<mnc>42</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8250,7 +8250,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>42</mnc>
+		<mnc>91</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8457,6 +8457,14 @@
 		<network>BSNL Mobile</network>
 	</record>
 	<record>
+		<mcc>405</mcc>
+		<mnc>76</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
 		<mcc>404</mcc>
 		<mnc>80</mnc>
 		<iso>in</iso>
@@ -8465,23 +8473,7 @@
 		<network>BSNL Mobile</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>76</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
 		<mcc>404</mcc>
-		<mnc>59</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>BSNL Mobile</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
 		<mnc>59</mnc>
 		<iso>in</iso>
 		<country>India</country>
@@ -8491,6 +8483,14 @@
 	<record>
 		<mcc>404</mcc>
 		<mnc>76</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>BSNL Mobile</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>59</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8545,16 +8545,16 @@
 		<network>BSNL Mobile</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>62</mnc>
+		<mcc>404</mcc>
+		<mnc>75</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
 		<network>BSNL Mobile</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>75</mnc>
+		<mcc>405</mcc>
+		<mnc>62</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8617,16 +8617,16 @@
 		<network>BSNL Mobile</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>64</mnc>
+		<mcc>404</mcc>
+		<mnc>74</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
 		<network>BSNL Mobile</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>74</mnc>
+		<mcc>405</mcc>
+		<mnc>64</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8721,16 +8721,16 @@
 		<network>BSNL Mobile</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>81</mnc>
+		<mcc>405</mcc>
+		<mnc>75</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
 		<network>BSNL Mobile</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>75</mnc>
+		<mcc>404</mcc>
+		<mnc>81</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8745,16 +8745,16 @@
 		<network>BSNL Mobile</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>58</mnc>
+		<mcc>404</mcc>
+		<mnc>77</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
 		<network>BSNL Mobile</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>77</mnc>
+		<mcc>405</mcc>
+		<mnc>58</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8873,16 +8873,16 @@
 		<network>Idea</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>82</mnc>
+		<mcc>404</mcc>
+		<mnc>852</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
 		<network>Idea</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>852</mnc>
+		<mcc>405</mcc>
+		<mnc>82</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8937,16 +8937,16 @@
 		<network>Idea</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>845</mnc>
+		<mcc>404</mcc>
+		<mnc>850</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
 		<network>Idea</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>850</mnc>
+		<mcc>405</mcc>
+		<mnc>845</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8979,6 +8979,14 @@
 	<record>
 		<mcc>404</mcc>
 		<mnc>82</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>404</mcc>
+		<mnc>89</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -8994,23 +9002,7 @@
 	</record>
 	<record>
 		<mcc>404</mcc>
-		<mnc>89</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>404</mcc>
 		<mnc>22</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>846</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9019,6 +9011,14 @@
 	<record>
 		<mcc>404</mcc>
 		<mnc>849</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>846</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9057,16 +9057,16 @@
 		<network>Idea</network>
 	</record>
 	<record>
-		<mcc>405</mcc>
-		<mnc>56</mnc>
+		<mcc>404</mcc>
+		<mnc>87</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
 		<network>Idea</network>
 	</record>
 	<record>
-		<mcc>404</mcc>
-		<mnc>87</mnc>
+		<mcc>405</mcc>
+		<mnc>56</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9115,14 +9115,6 @@
 	<record>
 		<mcc>404</mcc>
 		<mnc>56</mnc>
-		<iso>in</iso>
-		<country>India</country>
-		<country_code>91</country_code>
-		<network>Idea</network>
-	</record>
-	<record>
-		<mcc>405</mcc>
-		<mnc>78</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9131,6 +9123,14 @@
 	<record>
 		<mcc>404</mcc>
 		<mnc>853</mnc>
+		<iso>in</iso>
+		<country>India</country>
+		<country_code>91</country_code>
+		<network>Idea</network>
+	</record>
+	<record>
+		<mcc>405</mcc>
+		<mnc>78</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9386,7 +9386,7 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>861</mnc>
+		<mnc>869</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -9394,7 +9394,7 @@
 	</record>
 	<record>
 		<mcc>405</mcc>
-		<mnc>869</mnc>
+		<mnc>861</mnc>
 		<iso>in</iso>
 		<country>India</country>
 		<country_code>91</country_code>
@@ -10706,7 +10706,7 @@
 	</record>
 	<record>
 		<mcc>418</mcc>
-		<mnc>20</mnc>
+		<mnc>30</mnc>
 		<iso>iq</iso>
 		<country>Iraq</country>
 		<country_code>964</country_code>
@@ -10714,7 +10714,7 @@
 	</record>
 	<record>
 		<mcc>418</mcc>
-		<mnc>30</mnc>
+		<mnc>20</mnc>
 		<iso>iq</iso>
 		<country>Iraq</country>
 		<country_code>964</country_code>
@@ -11578,7 +11578,7 @@
 	</record>
 	<record>
 		<mcc>440</mcc>
-		<mnc>00</mnc>
+		<mnc>21</mnc>
 		<iso>jp</iso>
 		<country>Japan</country>
 		<country_code>81</country_code>
@@ -11586,7 +11586,7 @@
 	</record>
 	<record>
 		<mcc>440</mcc>
-		<mnc>21</mnc>
+		<mnc>00</mnc>
 		<iso>jp</iso>
 		<country>Japan</country>
 		<country_code>81</country_code>
@@ -12570,7 +12570,7 @@
 	</record>
 	<record>
 		<mcc>455</mcc>
-		<mnc>02</mnc>
+		<mnc>07</mnc>
 		<iso>mo</iso>
 		<country>Macao</country>
 		<country_code>853</country_code>
@@ -12578,7 +12578,7 @@
 	</record>
 	<record>
 		<mcc>455</mcc>
-		<mnc>07</mnc>
+		<mnc>02</mnc>
 		<iso>mo</iso>
 		<country>Macao</country>
 		<country_code>853</country_code>
@@ -23995,7 +23995,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>004</mnc>
+		<mnc>891</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>
@@ -24003,7 +24003,7 @@
 	</record>
 	<record>
 		<mcc>310</mcc>
-		<mnc>891</mnc>
+		<mnc>004</mnc>
 		<iso>us</iso>
 		<country>United States of America</country>
 		<country_code>1</country_code>

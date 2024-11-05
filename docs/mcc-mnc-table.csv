@@ -203,8 +203,8 @@
 702,67,bz,Belize,501,DigiCell
 702,299,bz,Belize,501,Failed Calls
 702,999,bz,Belize,501,Fix Line
-702,099,bz,Belize,501,Smart
 702,69,bz,Belize,501,Smart
+702,099,bz,Belize,501,Smart
 616,299,bj,Benin,229,Failed Calls
 616,999,bj,Benin,229,Fix Line
 616,02,bj,Benin,229,Moov
@@ -360,8 +360,8 @@
 302,86,ca,Canada,1,Telus Mobility
 302,50,ca,Canada,1,Videotron
 302,510,ca,Canada,1,Videotron
-302,500,ca,Canada,1,Videotron
 302,520,ca,Canada,1,Videotron
+302,500,ca,Canada,1,Videotron
 302,51,ca,Canada,1,Videotron
 302,299,ca,Canada,1,Xplore Mobile
 625,01,cv,Cape Verde,238,CVMovel
@@ -671,8 +671,8 @@
 244,26,fi,Finland,358,Compatel
 244,299,fi,Finland,358,Cuuma
 244,13,fi,Finland,358,DNA
-244,12,fi,Finland,358,DNA
 244,03,fi,Finland,358,DNA
+244,12,fi,Finland,358,DNA
 244,04,fi,Finland,358,DNA
 244,06,fi,Finland,358,Elisa
 244,21,fi,Finland,358,Elisa
@@ -741,8 +741,8 @@
 208,299,fr,France,33,Foliateam
 208,15,fr,France,33,Free Mobile
 208,35,fr,France,33,Free Mobile
-208,16,fr,France,33,Free Mobile
 208,36,fr,France,33,Free Mobile
+208,16,fr,France,33,Free Mobile
 208,94,fr,France,33,Halys
 208,299,fr,France,33,Happy Telecom
 208,299,fr,France,33,Hexatel
@@ -1013,8 +1013,8 @@
 405,94,in,India,91,Airtel
 405,06,in,India,91,Airtel
 405,29,in,India,91,Aircel
-404,25,in,India,91,Aircel
 404,35,in,India,91,Aircel
+404,25,in,India,91,Aircel
 405,70,in,India,91,Airtel
 405,42,in,India,91,Aircel
 405,95,in,India,91,Airtel
@@ -1027,9 +1027,9 @@
 405,96,in,India,91,Airtel
 405,16,in,India,91,Airtel
 405,35,in,India,91,Aircel
-404,91,in,India,91,Aircel
-404,17,in,India,91,Aircel
 404,42,in,India,91,Aircel
+404,17,in,India,91,Aircel
+404,91,in,India,91,Aircel
 405,92,in,India,91,Airtel
 405,02,in,India,91,Airtel
 405,25,in,India,91,Aircel
@@ -1055,19 +1055,19 @@
 405,71,in,India,91,BSNL Mobile
 404,72,in,India,91,BSNL Mobile
 405,53,in,India,91,BSNL Mobile
-404,80,in,India,91,BSNL Mobile
 405,76,in,India,91,BSNL Mobile
+404,80,in,India,91,BSNL Mobile
 404,59,in,India,91,BSNL Mobile
-405,59,in,India,91,BSNL Mobile
 404,76,in,India,91,BSNL Mobile
+405,59,in,India,91,BSNL Mobile
 404,53,in,India,91,BSNL Mobile
 405,72,in,India,91,BSNL Mobile
 404,71,in,India,91,BSNL Mobile
 405,54,in,India,91,BSNL Mobile
 405,77,in,India,91,BSNL Mobile
 404,58,in,India,91,BSNL Mobile
-405,62,in,India,91,BSNL Mobile
 404,75,in,India,91,BSNL Mobile
+405,62,in,India,91,BSNL Mobile
 405,34,in,India,91,BSNL Mobile
 404,51,in,India,91,BSNL Mobile
 405,73,in,India,91,BSNL Mobile
@@ -1075,8 +1075,8 @@
 405,55,in,India,91,BSNL Mobile
 405,80,in,India,91,BSNL Mobile
 404,57,in,India,91,BSNL Mobile
-405,64,in,India,91,BSNL Mobile
 404,74,in,India,91,BSNL Mobile
+405,64,in,India,91,BSNL Mobile
 405,38,in,India,91,BSNL Mobile
 404,38,in,India,91,BSNL Mobile
 405,74,in,India,91,BSNL Mobile
@@ -1088,11 +1088,11 @@
 404,73,in,India,91,BSNL Mobile
 405,51,in,India,91,BSNL Mobile
 404,34,in,India,91,BSNL Mobile
-404,81,in,India,91,BSNL Mobile
 405,75,in,India,91,BSNL Mobile
+404,81,in,India,91,BSNL Mobile
 404,62,in,India,91,BSNL Mobile
-405,58,in,India,91,BSNL Mobile
 404,77,in,India,91,BSNL Mobile
+405,58,in,India,91,BSNL Mobile
 404,54,in,India,91,BSNL Mobile
 405,69,in,India,91,Dolphin
 404,69,in,India,91,Dolphin
@@ -1107,39 +1107,39 @@
 405,22,in,India,91,Idea
 405,89,in,India,91,Idea
 404,44,in,India,91,Idea
-405,82,in,India,91,Idea
 404,852,in,India,91,Idea
+405,82,in,India,91,Idea
 405,07,in,India,91,Idea
 404,12,in,India,91,Idea
 405,850,in,India,91,Idea
 404,845,in,India,91,Idea
 405,24,in,India,91,Idea
 404,24,in,India,91,Idea
-405,845,in,India,91,Idea
 404,850,in,India,91,Idea
+405,845,in,India,91,Idea
 405,12,in,India,91,Idea
 404,07,in,India,91,Idea
 405,852,in,India,91,Idea
 404,82,in,India,91,Idea
-405,44,in,India,91,Idea
 404,89,in,India,91,Idea
+405,44,in,India,91,Idea
 404,22,in,India,91,Idea
-405,846,in,India,91,Idea
 404,849,in,India,91,Idea
+405,846,in,India,91,Idea
 405,14,in,India,91,Idea
 404,04,in,India,91,Idea
 405,853,in,India,91,Idea
 404,78,in,India,91,Idea
-405,56,in,India,91,Idea
 404,87,in,India,91,Idea
+405,56,in,India,91,Idea
 404,19,in,India,91,Idea
 405,848,in,India,91,Idea
 404,848,in,India,91,Idea
 405,19,in,India,91,Idea
 405,87,in,India,91,Idea
 404,56,in,India,91,Idea
-405,78,in,India,91,Idea
 404,853,in,India,91,Idea
+405,78,in,India,91,Idea
 405,04,in,India,91,Idea
 404,856,in,India,91,Jio
 404,866,in,India,91,Jio
@@ -1171,8 +1171,8 @@
 405,855,in,India,91,Jio
 404,858,in,India,91,Jio
 404,869,in,India,91,Jio
-405,861,in,India,91,Jio
 405,869,in,India,91,Jio
+405,861,in,India,91,Jio
 405,860,in,India,91,Jio
 405,874,in,India,91,Jio
 404,865,in,India,91,Jio
@@ -1336,8 +1336,8 @@
 418,999,iq,Iraq,964,Fix Line
 418,40,iq,Iraq,964,Korek
 418,45,iq,Iraq,964,Mobitel
-418,20,iq,Iraq,964,Zain
 418,30,iq,Iraq,964,Zain
+418,20,iq,Iraq,964,Zain
 272,05,ie,Ireland,353,3
 272,02,ie,Ireland,353,3
 272,17,ie,Ireland,353,3
@@ -1445,8 +1445,8 @@
 440,78,jp,Japan,81,Okinawa Cellular
 440,11,jp,Japan,81,Rakuten Mobile
 440,20,jp,Japan,81,SoftBank
-440,00,jp,Japan,81,SoftBank
 440,21,jp,Japan,81,SoftBank
+440,00,jp,Japan,81,SoftBank
 440,05,jp,Japan,81,SoftBank
 440,01,jp,Japan,81,SoftBank
 416,299,jo,Jordan,962,Failed Calls
@@ -1569,8 +1569,8 @@
 270,77,lu,Luxembourg,352,Tango
 455,03,mo,Macao,853,3
 455,05,mo,Macao,853,3
-455,02,mo,Macao,853,China Telecom
 455,07,mo,Macao,853,China Telecom
+455,02,mo,Macao,853,China Telecom
 455,04,mo,Macao,853,CTM
 455,01,mo,Macao,853,CTM
 455,299,mo,Macao,853,Failed Calls
@@ -3000,8 +3000,8 @@
 310,283,us,United States of America,1,Verizon Wireless
 311,289,us,United States of America,1,Verizon Wireless
 312,483,us,United States of America,1,Verizon Wireless
-310,004,us,United States of America,1,Verizon Wireless
 310,891,us,United States of America,1,Verizon Wireless
+310,004,us,United States of America,1,Verizon Wireless
 311,897,us,United States of America,1,Verizon Wireless
 312,594,us,United States of America,1,Verizon Wireless
 310,274,us,United States of America,1,Verizon Wireless
