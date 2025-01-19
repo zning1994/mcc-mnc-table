@@ -1641,7 +1641,7 @@
   },
   {
     "mcc": 702,
-    "mnc": 69,
+    "mnc": 99,
     "iso": "bz",
     "country": "Belize",
     "country_code": 501,
@@ -1649,7 +1649,7 @@
   },
   {
     "mcc": 702,
-    "mnc": 99,
+    "mnc": 69,
     "iso": "bz",
     "country": "Belize",
     "country_code": 501,
@@ -2761,7 +2761,7 @@
   },
   {
     "mcc": 302,
-    "mnc": 68,
+    "mnc": 680,
     "iso": "ca",
     "country": "Canada",
     "country_code": 1,
@@ -2769,7 +2769,7 @@
   },
   {
     "mcc": 302,
-    "mnc": 680,
+    "mnc": 68,
     "iso": "ca",
     "country": "Canada",
     "country_code": 1,
@@ -2801,7 +2801,7 @@
   },
   {
     "mcc": 302,
-    "mnc": 22,
+    "mnc": 760,
     "iso": "ca",
     "country": "Canada",
     "country_code": 1,
@@ -2809,7 +2809,7 @@
   },
   {
     "mcc": 302,
-    "mnc": 760,
+    "mnc": 22,
     "iso": "ca",
     "country": "Canada",
     "country_code": 1,
@@ -2897,7 +2897,7 @@
   },
   {
     "mcc": 302,
-    "mnc": 500,
+    "mnc": 520,
     "iso": "ca",
     "country": "Canada",
     "country_code": 1,
@@ -2905,7 +2905,7 @@
   },
   {
     "mcc": 302,
-    "mnc": 520,
+    "mnc": 500,
     "iso": "ca",
     "country": "Canada",
     "country_code": 1,
@@ -5945,7 +5945,7 @@
   },
   {
     "mcc": 208,
-    "mnc": 36,
+    "mnc": 16,
     "iso": "fr",
     "country": "France",
     "country_code": 33,
@@ -5953,7 +5953,7 @@
   },
   {
     "mcc": 208,
-    "mnc": 16,
+    "mnc": 36,
     "iso": "fr",
     "country": "France",
     "country_code": 33,
@@ -8048,7 +8048,7 @@
     "network": "Airtel"
   },
   {
-    "mcc": 405,
+    "mcc": 404,
     "mnc": 28,
     "iso": "in",
     "country": "India",
@@ -8056,7 +8056,7 @@
     "network": "Aircel"
   },
   {
-    "mcc": 404,
+    "mcc": 405,
     "mnc": 28,
     "iso": "in",
     "country": "India",
@@ -8120,16 +8120,16 @@
     "network": "Aircel"
   },
   {
-    "mcc": 405,
-    "mnc": 29,
+    "mcc": 404,
+    "mnc": 35,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Aircel"
   },
   {
-    "mcc": 404,
-    "mnc": 35,
+    "mcc": 405,
+    "mnc": 29,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8192,16 +8192,16 @@
     "network": "Aircel"
   },
   {
-    "mcc": 405,
-    "mnc": 17,
+    "mcc": 404,
+    "mnc": 33,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Aircel"
   },
   {
-    "mcc": 404,
-    "mnc": 33,
+    "mcc": 405,
+    "mnc": 17,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8232,14 +8232,6 @@
     "network": "Aircel"
   },
   {
-    "mcc": 404,
-    "mnc": 91,
-    "iso": "in",
-    "country": "India",
-    "country_code": 91,
-    "network": "Aircel"
-  },
-  {
     "mcc": 405,
     "mnc": 92,
     "iso": "in",
@@ -8249,7 +8241,7 @@
   },
   {
     "mcc": 404,
-    "mnc": 42,
+    "mnc": 17,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8257,7 +8249,15 @@
   },
   {
     "mcc": 404,
-    "mnc": 17,
+    "mnc": 91,
+    "iso": "in",
+    "country": "India",
+    "country_code": 91,
+    "network": "Aircel"
+  },
+  {
+    "mcc": 404,
+    "mnc": 42,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8272,16 +8272,16 @@
     "network": "Airtel"
   },
   {
-    "mcc": 405,
-    "mnc": 25,
+    "mcc": 404,
+    "mnc": 29,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Aircel"
   },
   {
-    "mcc": 404,
-    "mnc": 29,
+    "mcc": 405,
+    "mnc": 25,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8432,16 +8432,16 @@
     "network": "Airtel"
   },
   {
-    "mcc": 404,
-    "mnc": 72,
+    "mcc": 405,
+    "mnc": 71,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 405,
-    "mnc": 71,
+    "mcc": 404,
+    "mnc": 72,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8458,14 +8458,6 @@
   {
     "mcc": 404,
     "mnc": 59,
-    "iso": "in",
-    "country": "India",
-    "country_code": 91,
-    "network": "BSNL Mobile"
-  },
-  {
-    "mcc": 405,
-    "mnc": 76,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8480,7 +8472,7 @@
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 404,
+    "mcc": 405,
     "mnc": 76,
     "iso": "in",
     "country": "India",
@@ -8497,7 +8489,7 @@
   },
   {
     "mcc": 404,
-    "mnc": 53,
+    "mnc": 76,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8505,7 +8497,7 @@
   },
   {
     "mcc": 404,
-    "mnc": 71,
+    "mnc": 53,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8514,6 +8506,14 @@
   {
     "mcc": 405,
     "mnc": 72,
+    "iso": "in",
+    "country": "India",
+    "country_code": 91,
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": 404,
+    "mnc": 71,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8544,16 +8544,16 @@
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 404,
-    "mnc": 75,
+    "mcc": 405,
+    "mnc": 62,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 405,
-    "mnc": 62,
+    "mcc": 404,
+    "mnc": 75,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8576,16 +8576,16 @@
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 404,
-    "mnc": 66,
+    "mcc": 405,
+    "mnc": 73,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 405,
-    "mnc": 73,
+    "mcc": 404,
+    "mnc": 66,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8616,16 +8616,16 @@
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 404,
-    "mnc": 74,
+    "mcc": 405,
+    "mnc": 64,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 405,
-    "mnc": 64,
+    "mcc": 404,
+    "mnc": 74,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8648,16 +8648,16 @@
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 404,
-    "mnc": 64,
+    "mcc": 405,
+    "mnc": 74,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 405,
-    "mnc": 74,
+    "mcc": 404,
+    "mnc": 64,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8672,14 +8672,6 @@
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 405,
-    "mnc": 81,
-    "iso": "in",
-    "country": "India",
-    "country_code": 91,
-    "network": "BSNL Mobile"
-  },
-  {
     "mcc": 404,
     "mnc": 55,
     "iso": "in",
@@ -8688,8 +8680,8 @@
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 404,
-    "mnc": 73,
+    "mcc": 405,
+    "mnc": 81,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8698,6 +8690,14 @@
   {
     "mcc": 405,
     "mnc": 66,
+    "iso": "in",
+    "country": "India",
+    "country_code": 91,
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": 404,
+    "mnc": 73,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8720,16 +8720,16 @@
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 404,
-    "mnc": 62,
+    "mcc": 405,
+    "mnc": 75,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 405,
-    "mnc": 75,
+    "mcc": 404,
+    "mnc": 62,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8744,16 +8744,16 @@
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 404,
-    "mnc": 77,
+    "mcc": 405,
+    "mnc": 58,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 405,
-    "mnc": 58,
+    "mcc": 404,
+    "mnc": 77,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8832,6 +8832,14 @@
     "network": "Idea"
   },
   {
+    "mcc": 405,
+    "mnc": 849,
+    "iso": "in",
+    "country": "India",
+    "country_code": 91,
+    "network": "Idea"
+  },
+  {
     "mcc": 404,
     "mnc": 846,
     "iso": "in",
@@ -8841,7 +8849,7 @@
   },
   {
     "mcc": 405,
-    "mnc": 849,
+    "mnc": 22,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8849,7 +8857,7 @@
   },
   {
     "mcc": 405,
-    "mnc": 22,
+    "mnc": 89,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8865,14 +8873,6 @@
   },
   {
     "mcc": 405,
-    "mnc": 89,
-    "iso": "in",
-    "country": "India",
-    "country_code": 91,
-    "network": "Idea"
-  },
-  {
-    "mcc": 405,
     "mnc": 82,
     "iso": "in",
     "country": "India",
@@ -8904,16 +8904,16 @@
     "network": "Idea"
   },
   {
-    "mcc": 404,
-    "mnc": 845,
+    "mcc": 405,
+    "mnc": 850,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Idea"
   },
   {
-    "mcc": 405,
-    "mnc": 850,
+    "mcc": 404,
+    "mnc": 845,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8968,16 +8968,16 @@
     "network": "Idea"
   },
   {
-    "mcc": 404,
-    "mnc": 82,
+    "mcc": 405,
+    "mnc": 852,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Idea"
   },
   {
-    "mcc": 405,
-    "mnc": 852,
+    "mcc": 404,
+    "mnc": 82,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -9040,6 +9040,14 @@
     "network": "Idea"
   },
   {
+    "mcc": 405,
+    "mnc": 853,
+    "iso": "in",
+    "country": "India",
+    "country_code": 91,
+    "network": "Idea"
+  },
+  {
     "mcc": 404,
     "mnc": 78,
     "iso": "in",
@@ -9049,14 +9057,6 @@
   },
   {
     "mcc": 405,
-    "mnc": 853,
-    "iso": "in",
-    "country": "India",
-    "country_code": 91,
-    "network": "Idea"
-  },
-  {
-    "mcc": 405,
     "mnc": 56,
     "iso": "in",
     "country": "India",
@@ -9080,7 +9080,7 @@
     "network": "Idea"
   },
   {
-    "mcc": 404,
+    "mcc": 405,
     "mnc": 848,
     "iso": "in",
     "country": "India",
@@ -9088,7 +9088,7 @@
     "network": "Idea"
   },
   {
-    "mcc": 405,
+    "mcc": 404,
     "mnc": 848,
     "iso": "in",
     "country": "India",
@@ -9104,16 +9104,16 @@
     "network": "Idea"
   },
   {
-    "mcc": 404,
-    "mnc": 56,
+    "mcc": 405,
+    "mnc": 87,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Idea"
   },
   {
-    "mcc": 405,
-    "mnc": 87,
+    "mcc": 404,
+    "mnc": 56,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -9385,7 +9385,7 @@
   },
   {
     "mcc": 405,
-    "mnc": 861,
+    "mnc": 869,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -9393,7 +9393,7 @@
   },
   {
     "mcc": 405,
-    "mnc": 869,
+    "mnc": 861,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -9680,16 +9680,16 @@
     "network": "Vodafone"
   },
   {
-    "mcc": 405,
-    "mnc": 11,
+    "mcc": 404,
+    "mnc": 88,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Vodafone"
   },
   {
-    "mcc": 404,
-    "mnc": 88,
+    "mcc": 405,
+    "mnc": 11,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -9728,16 +9728,16 @@
     "network": "Vodafone"
   },
   {
-    "mcc": 405,
-    "mnc": 13,
+    "mcc": 404,
+    "mnc": 86,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Vodafone"
   },
   {
-    "mcc": 404,
-    "mnc": 86,
+    "mcc": 405,
+    "mnc": 13,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -9784,16 +9784,16 @@
     "network": "Vodafone"
   },
   {
-    "mcc": 405,
-    "mnc": 15,
+    "mcc": 404,
+    "mnc": 84,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Vodafone"
   },
   {
-    "mcc": 404,
-    "mnc": 84,
+    "mcc": 405,
+    "mnc": 15,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -9824,16 +9824,16 @@
     "network": "Vodafone"
   },
   {
-    "mcc": 405,
-    "mnc": 20,
+    "mcc": 404,
+    "mnc": 60,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Vodafone"
   },
   {
-    "mcc": 404,
-    "mnc": 60,
+    "mcc": 405,
+    "mnc": 20,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -10705,7 +10705,7 @@
   },
   {
     "mcc": 418,
-    "mnc": 20,
+    "mnc": 30,
     "iso": "iq",
     "country": "Iraq",
     "country_code": 964,
@@ -10713,7 +10713,7 @@
   },
   {
     "mcc": 418,
-    "mnc": 30,
+    "mnc": 20,
     "iso": "iq",
     "country": "Iraq",
     "country_code": 964,
@@ -12569,7 +12569,7 @@
   },
   {
     "mcc": 455,
-    "mnc": 2,
+    "mnc": 7,
     "iso": "mo",
     "country": "Macao",
     "country_code": 853,
@@ -12577,7 +12577,7 @@
   },
   {
     "mcc": 455,
-    "mnc": 7,
+    "mnc": 2,
     "iso": "mo",
     "country": "Macao",
     "country_code": 853,
@@ -17209,7 +17209,7 @@
   },
   {
     "mcc": 360,
-    "mnc": 70,
+    "mnc": 50,
     "iso": "vc",
     "country": "Saint Vincent and the Grenadines",
     "country_code": 1784,
@@ -17217,7 +17217,7 @@
   },
   {
     "mcc": 360,
-    "mnc": 50,
+    "mnc": 70,
     "iso": "vc",
     "country": "Saint Vincent and the Grenadines",
     "country_code": 1784,
@@ -21568,16 +21568,16 @@
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 312,
-    "mnc": 280,
+    "mcc": 310,
+    "mnc": 680,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 310,
-    "mnc": 680,
+    "mcc": 312,
+    "mnc": 280,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -21624,16 +21624,16 @@
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 312,
-    "mnc": 150,
+    "mcc": 310,
+    "mnc": 280,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 310,
-    "mnc": 280,
+    "mcc": 312,
+    "mnc": 150,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -21680,16 +21680,16 @@
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 312,
-    "mnc": 380,
+    "mcc": 310,
+    "mnc": 950,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 310,
-    "mnc": 950,
+    "mcc": 312,
+    "mnc": 380,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -21736,16 +21736,16 @@
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 312,
-    "mnc": 170,
+    "mcc": 310,
+    "mnc": 380,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 310,
-    "mnc": 380,
+    "mcc": 312,
+    "mnc": 170,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -21840,16 +21840,16 @@
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 312,
-    "mnc": 180,
+    "mcc": 310,
+    "mnc": 410,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 310,
-    "mnc": 410,
+    "mcc": 312,
+    "mnc": 180,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -21944,16 +21944,16 @@
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 312,
-    "mnc": 210,
+    "mcc": 310,
+    "mnc": 670,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 310,
-    "mnc": 670,
+    "mcc": 312,
+    "mnc": 210,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -22336,16 +22336,16 @@
     "network": "T-Mobile"
   },
   {
-    "mcc": 316,
-    "mnc": 230,
+    "mcc": 311,
+    "mnc": 530,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "T-Mobile"
   },
   {
-    "mcc": 311,
-    "mnc": 530,
+    "mcc": 316,
+    "mnc": 230,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -22392,16 +22392,16 @@
     "network": "T-Mobile"
   },
   {
-    "mcc": 316,
-    "mnc": 490,
+    "mcc": 311,
+    "mnc": 880,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "T-Mobile"
   },
   {
-    "mcc": 311,
-    "mnc": 880,
+    "mcc": 316,
+    "mnc": 490,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -22472,16 +22472,16 @@
     "network": "T-Mobile"
   },
   {
-    "mcc": 316,
-    "mnc": 240,
+    "mcc": 311,
+    "mnc": 660,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "T-Mobile"
   },
   {
-    "mcc": 311,
-    "mnc": 660,
+    "mcc": 316,
+    "mnc": 240,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -22528,16 +22528,16 @@
     "network": "T-Mobile"
   },
   {
-    "mcc": 316,
-    "mnc": 530,
+    "mcc": 311,
+    "mnc": 882,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "T-Mobile"
   },
   {
-    "mcc": 311,
-    "mnc": 882,
+    "mcc": 316,
+    "mnc": 530,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -22608,16 +22608,16 @@
     "network": "T-Mobile"
   },
   {
-    "mcc": 316,
-    "mnc": 250,
+    "mcc": 311,
+    "mnc": 800,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "T-Mobile"
   },
   {
-    "mcc": 311,
-    "mnc": 800,
+    "mcc": 316,
+    "mnc": 250,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -22664,16 +22664,16 @@
     "network": "T-Mobile"
   },
   {
-    "mcc": 316,
-    "mnc": 660,
+    "mcc": 311,
+    "mnc": 940,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "T-Mobile"
   },
   {
-    "mcc": 311,
-    "mnc": 940,
+    "mcc": 316,
+    "mnc": 660,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -22744,16 +22744,16 @@
     "network": "T-Mobile"
   },
   {
-    "mcc": 316,
-    "mnc": 260,
+    "mcc": 311,
+    "mnc": 830,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "T-Mobile"
   },
   {
-    "mcc": 311,
-    "mnc": 830,
+    "mcc": 316,
+    "mnc": 260,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -22880,16 +22880,16 @@
     "network": "T-Mobile"
   },
   {
-    "mcc": 316,
-    "mnc": 270,
+    "mcc": 311,
+    "mnc": 870,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "T-Mobile"
   },
   {
-    "mcc": 311,
-    "mnc": 870,
+    "mcc": 316,
+    "mnc": 270,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -22920,16 +22920,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 280,
+    "mcc": 312,
+    "mnc": 591,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 591,
+    "mcc": 310,
+    "mnc": 280,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -22992,16 +22992,8 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 311,
-    "mnc": 13,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
     "mcc": 312,
-    "mnc": 274,
+    "mnc": 893,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23016,8 +23008,8 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 893,
+    "mcc": 311,
+    "mnc": 488,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23025,7 +23017,15 @@
   },
   {
     "mcc": 311,
-    "mnc": 488,
+    "mnc": 13,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
+    "mcc": 312,
+    "mnc": 274,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23048,16 +23048,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 285,
+    "mcc": 312,
+    "mnc": 596,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 596,
+    "mcc": 310,
+    "mnc": 285,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23096,16 +23096,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 276,
+    "mcc": 312,
+    "mnc": 487,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 487,
+    "mcc": 310,
+    "mnc": 276,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23129,7 +23129,7 @@
   },
   {
     "mcc": 312,
-    "mnc": 279,
+    "mnc": 898,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23138,14 +23138,6 @@
   {
     "mcc": 310,
     "mnc": 487,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
-    "mcc": 312,
-    "mnc": 898,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23176,16 +23168,8 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 898,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
-    "mcc": 310,
-    "mnc": 350,
+    "mcc": 312,
+    "mnc": 279,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23200,8 +23184,24 @@
     "network": "Verizon Wireless"
   },
   {
+    "mcc": 310,
+    "mnc": 350,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
     "mcc": 311,
     "mnc": 484,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
+    "mcc": 310,
+    "mnc": 898,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23224,16 +23224,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 281,
+    "mcc": 312,
+    "mnc": 592,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 592,
+    "mcc": 310,
+    "mnc": 281,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23296,16 +23296,8 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 311,
-    "mnc": 110,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
     "mcc": 312,
-    "mnc": 275,
+    "mnc": 894,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23320,8 +23312,8 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 894,
+    "mcc": 311,
+    "mnc": 489,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23329,7 +23321,15 @@
   },
   {
     "mcc": 311,
-    "mnc": 489,
+    "mnc": 110,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
+    "mcc": 312,
+    "mnc": 275,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23352,16 +23352,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 286,
+    "mcc": 312,
+    "mnc": 597,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 597,
+    "mcc": 310,
+    "mnc": 286,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23392,16 +23392,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 277,
+    "mcc": 312,
+    "mnc": 488,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 488,
+    "mcc": 310,
+    "mnc": 277,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23425,7 +23425,7 @@
   },
   {
     "mcc": 312,
-    "mnc": 280,
+    "mnc": 899,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23434,14 +23434,6 @@
   {
     "mcc": 310,
     "mnc": 488,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
-    "mcc": 312,
-    "mnc": 899,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23472,8 +23464,8 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 899,
+    "mcc": 312,
+    "mnc": 280,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23488,14 +23480,6 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 390,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
     "mcc": 312,
     "mnc": 890,
     "iso": "us",
@@ -23504,8 +23488,24 @@
     "network": "Verizon Wireless"
   },
   {
+    "mcc": 310,
+    "mnc": 390,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
     "mcc": 311,
     "mnc": 485,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
+    "mcc": 310,
+    "mnc": 899,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23528,16 +23528,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 282,
+    "mcc": 312,
+    "mnc": 593,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 593,
+    "mcc": 310,
+    "mnc": 282,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23601,7 +23601,7 @@
   },
   {
     "mcc": 312,
-    "mnc": 276,
+    "mnc": 895,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23616,16 +23616,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 895,
+    "mcc": 311,
+    "mnc": 590,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 311,
-    "mnc": 590,
+    "mcc": 312,
+    "mnc": 276,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23648,16 +23648,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 287,
+    "mcc": 312,
+    "mnc": 598,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 598,
+    "mcc": 310,
+    "mnc": 287,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23688,16 +23688,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 278,
+    "mcc": 312,
+    "mnc": 489,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 489,
+    "mcc": 310,
+    "mnc": 278,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23720,16 +23720,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 489,
+    "mcc": 312,
+    "mnc": 910,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 910,
+    "mcc": 310,
+    "mnc": 489,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23768,16 +23768,8 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 910,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
     "mcc": 312,
-    "mnc": 272,
+    "mnc": 891,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23786,14 +23778,6 @@
   {
     "mcc": 310,
     "mnc": 480,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
-    "mcc": 312,
-    "mnc": 891,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23809,15 +23793,15 @@
   },
   {
     "mcc": 310,
-    "mnc": 891,
+    "mnc": 910,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 311,
-    "mnc": 897,
+    "mcc": 312,
+    "mnc": 272,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23833,7 +23817,15 @@
   },
   {
     "mcc": 310,
-    "mnc": 283,
+    "mnc": 891,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
+    "mcc": 311,
+    "mnc": 897,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23842,6 +23834,14 @@
   {
     "mcc": 312,
     "mnc": 594,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
+    "mcc": 310,
+    "mnc": 283,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23905,7 +23905,7 @@
   },
   {
     "mcc": 312,
-    "mnc": 277,
+    "mnc": 896,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23914,14 +23914,6 @@
   {
     "mcc": 310,
     "mnc": 485,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
-    "mcc": 312,
-    "mnc": 896,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23944,8 +23936,8 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 896,
+    "mcc": 312,
+    "mnc": 277,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -23960,14 +23952,6 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 288,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
     "mcc": 312,
     "mnc": 599,
     "iso": "us",
@@ -23976,8 +23960,24 @@
     "network": "Verizon Wireless"
   },
   {
+    "mcc": 310,
+    "mnc": 288,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
     "mcc": 311,
     "mnc": 482,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
+    "mcc": 310,
+    "mnc": 896,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -24000,16 +24000,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 279,
+    "mcc": 312,
+    "mnc": 590,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 590,
+    "mcc": 310,
+    "mnc": 279,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -24064,16 +24064,8 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 311,
-    "mnc": 12,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
     "mcc": 312,
-    "mnc": 273,
+    "mnc": 892,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -24088,8 +24080,8 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 892,
+    "mcc": 311,
+    "mnc": 487,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -24097,7 +24089,15 @@
   },
   {
     "mcc": 311,
-    "mnc": 487,
+    "mnc": 12,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
+    "mcc": 312,
+    "mnc": 273,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -24120,16 +24120,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 284,
+    "mcc": 312,
+    "mnc": 595,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 595,
+    "mcc": 310,
+    "mnc": 284,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -24168,16 +24168,16 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 275,
+    "mcc": 312,
+    "mnc": 486,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 312,
-    "mnc": 486,
+    "mcc": 310,
+    "mnc": 275,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -24201,7 +24201,7 @@
   },
   {
     "mcc": 312,
-    "mnc": 278,
+    "mnc": 897,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -24210,14 +24210,6 @@
   {
     "mcc": 310,
     "mnc": 486,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
-    "mcc": 312,
-    "mnc": 897,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -24240,8 +24232,8 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 897,
+    "mcc": 312,
+    "mnc": 278,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -24256,14 +24248,6 @@
     "network": "Verizon Wireless"
   },
   {
-    "mcc": 310,
-    "mnc": 289,
-    "iso": "us",
-    "country": "United States of America",
-    "country_code": 1,
-    "network": "Verizon Wireless"
-  },
-  {
     "mcc": 312,
     "mnc": 770,
     "iso": "us",
@@ -24272,8 +24256,24 @@
     "network": "Verizon Wireless"
   },
   {
+    "mcc": 310,
+    "mnc": 289,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
     "mcc": 311,
     "mnc": 483,
+    "iso": "us",
+    "country": "United States of America",
+    "country_code": 1,
+    "network": "Verizon Wireless"
+  },
+  {
+    "mcc": 310,
+    "mnc": 897,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
