@@ -369,7 +369,7 @@
   },
   {
     "mcc": 722,
-    "mnc": 31,
+    "mnc": 320,
     "iso": "ar",
     "country": "Argentina",
     "country_code": 54,
@@ -377,7 +377,7 @@
   },
   {
     "mcc": 722,
-    "mnc": 320,
+    "mnc": 31,
     "iso": "ar",
     "country": "Argentina",
     "country_code": 54,
@@ -1641,7 +1641,7 @@
   },
   {
     "mcc": 702,
-    "mnc": 69,
+    "mnc": 99,
     "iso": "bz",
     "country": "Belize",
     "country_code": 501,
@@ -1649,7 +1649,7 @@
   },
   {
     "mcc": 702,
-    "mnc": 99,
+    "mnc": 69,
     "iso": "bz",
     "country": "Belize",
     "country_code": 501,
@@ -2497,7 +2497,7 @@
   },
   {
     "mcc": 302,
-    "mnc": 660,
+    "mnc": 61,
     "iso": "ca",
     "country": "Canada",
     "country_code": 1,
@@ -2505,7 +2505,7 @@
   },
   {
     "mcc": 302,
-    "mnc": 61,
+    "mnc": 660,
     "iso": "ca",
     "country": "Canada",
     "country_code": 1,
@@ -5945,7 +5945,7 @@
   },
   {
     "mcc": 208,
-    "mnc": 16,
+    "mnc": 36,
     "iso": "fr",
     "country": "France",
     "country_code": 33,
@@ -5953,7 +5953,7 @@
   },
   {
     "mcc": 208,
-    "mnc": 36,
+    "mnc": 16,
     "iso": "fr",
     "country": "France",
     "country_code": 33,
@@ -8024,20 +8024,20 @@
     "network": "Aircel"
   },
   {
-    "mcc": 404,
-    "mnc": 41,
-    "iso": "in",
-    "country": "India",
-    "country_code": 91,
-    "network": "Aircel"
-  },
-  {
     "mcc": 405,
     "mnc": 93,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Airtel"
+  },
+  {
+    "mcc": 404,
+    "mnc": 41,
+    "iso": "in",
+    "country": "India",
+    "country_code": 91,
+    "network": "Aircel"
   },
   {
     "mcc": 405,
@@ -8088,20 +8088,20 @@
     "network": "Aircel"
   },
   {
-    "mcc": 404,
-    "mnc": 37,
-    "iso": "in",
-    "country": "India",
-    "country_code": 91,
-    "network": "Aircel"
-  },
-  {
     "mcc": 405,
     "mnc": 94,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "Airtel"
+  },
+  {
+    "mcc": 404,
+    "mnc": 37,
+    "iso": "in",
+    "country": "India",
+    "country_code": 91,
+    "network": "Aircel"
   },
   {
     "mcc": 405,
@@ -8233,7 +8233,7 @@
   },
   {
     "mcc": 404,
-    "mnc": 42,
+    "mnc": 91,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8257,7 +8257,7 @@
   },
   {
     "mcc": 404,
-    "mnc": 91,
+    "mnc": 42,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8456,16 +8456,16 @@
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 404,
-    "mnc": 80,
+    "mcc": 405,
+    "mnc": 76,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 405,
-    "mnc": 76,
+    "mcc": 404,
+    "mnc": 80,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -8720,16 +8720,16 @@
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 404,
-    "mnc": 81,
+    "mcc": 405,
+    "mnc": 75,
     "iso": "in",
     "country": "India",
     "country_code": 91,
     "network": "BSNL Mobile"
   },
   {
-    "mcc": 405,
-    "mnc": 75,
+    "mcc": 404,
+    "mnc": 81,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -9385,7 +9385,7 @@
   },
   {
     "mcc": 405,
-    "mnc": 861,
+    "mnc": 869,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -9393,7 +9393,7 @@
   },
   {
     "mcc": 405,
-    "mnc": 869,
+    "mnc": 861,
     "iso": "in",
     "country": "India",
     "country_code": 91,
@@ -10705,7 +10705,7 @@
   },
   {
     "mcc": 418,
-    "mnc": 20,
+    "mnc": 30,
     "iso": "iq",
     "country": "Iraq",
     "country_code": 964,
@@ -10713,7 +10713,7 @@
   },
   {
     "mcc": 418,
-    "mnc": 30,
+    "mnc": 20,
     "iso": "iq",
     "country": "Iraq",
     "country_code": 964,
@@ -11577,7 +11577,7 @@
   },
   {
     "mcc": 440,
-    "mnc": 0,
+    "mnc": 21,
     "iso": "jp",
     "country": "Japan",
     "country_code": 81,
@@ -11585,7 +11585,7 @@
   },
   {
     "mcc": 440,
-    "mnc": 21,
+    "mnc": 0,
     "iso": "jp",
     "country": "Japan",
     "country_code": 81,
@@ -12569,7 +12569,7 @@
   },
   {
     "mcc": 455,
-    "mnc": 2,
+    "mnc": 7,
     "iso": "mo",
     "country": "Macao",
     "country_code": 853,
@@ -12577,7 +12577,7 @@
   },
   {
     "mcc": 455,
-    "mnc": 7,
+    "mnc": 2,
     "iso": "mo",
     "country": "Macao",
     "country_code": 853,
@@ -14137,7 +14137,7 @@
   },
   {
     "mcc": 204,
-    "mnc": 20,
+    "mnc": 2,
     "iso": "nl",
     "country": "Netherlands",
     "country_code": 31,
@@ -14145,7 +14145,7 @@
   },
   {
     "mcc": 204,
-    "mnc": 2,
+    "mnc": 20,
     "iso": "nl",
     "country": "Netherlands",
     "country_code": 31,
@@ -17209,7 +17209,7 @@
   },
   {
     "mcc": 360,
-    "mnc": 70,
+    "mnc": 50,
     "iso": "vc",
     "country": "Saint Vincent and the Grenadines",
     "country_code": 1784,
@@ -17217,7 +17217,7 @@
   },
   {
     "mcc": 360,
-    "mnc": 50,
+    "mnc": 70,
     "iso": "vc",
     "country": "Saint Vincent and the Grenadines",
     "country_code": 1784,
@@ -19641,7 +19641,7 @@
   },
   {
     "mcc": 240,
-    "mnc": 5,
+    "mnc": 14,
     "iso": "se",
     "country": "Sweden",
     "country_code": 46,
@@ -19649,7 +19649,7 @@
   },
   {
     "mcc": 240,
-    "mnc": 14,
+    "mnc": 5,
     "iso": "se",
     "country": "Sweden",
     "country_code": 46,
@@ -21664,16 +21664,16 @@
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 313,
-    "mnc": 90,
+    "mcc": 310,
+    "mnc": 16,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
     "network": "AT&T Mobility"
   },
   {
-    "mcc": 310,
-    "mnc": 16,
+    "mcc": 313,
+    "mnc": 90,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -21753,7 +21753,7 @@
   },
   {
     "mcc": 310,
-    "mnc": 30,
+    "mnc": 70,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
@@ -21761,7 +21761,7 @@
   },
   {
     "mcc": 310,
-    "mnc": 70,
+    "mnc": 30,
     "iso": "us",
     "country": "United States of America",
     "country_code": 1,
